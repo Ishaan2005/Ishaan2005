@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishaan2005" alt="ishaan2005" /></a> </p>
 
-- 🔭 I’m currently working on **Adaptive Modulation using ML**
+- 🔭 I’m currently working on **Network Protocol Classification using ML**
 
-- 🌱 I’m currently learning **Tkinter, Pandas, Numpy, Neurokit2, scikit**
+- 🌱 I’m currently learning **Pandas, Numpy, Verilog, scikit, Computer Networking and C language**
 
 - 📫 How to reach me **ishaanbhimaji@gmail.com**
 
