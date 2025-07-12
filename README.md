@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Ishaan+Bhimajiyani+%F0%9F%91%8B;ECE+Undergrad+%7C+AI+%2B+Embedded+Systems+Enthusiast;Building+Intelligent+Tech+Solutions+%F0%9F%A4%96;Let's+Engineer+Something+Awesome!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Ishaan+Bhimajiyani+%F0%9F%91%8B;ECE+Undergrad+%7C+AI+%2B+Embedded+Systems+Enthusiast;Transforming+Ideas+into+Tech+Solutions+%F0%9F%A4%96;Let's+Engineer+Something+Awesome!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -12,51 +12,71 @@
 
 ## 🚀 About Me
 
-> *"Curious mind, always exploring. From microcontrollers to machine learning."*
+> *"Merging hardware and intelligence to create real-world impact."*
 
-I'm a **final-year ECE undergrad** with a **minor in Data Science**, deeply interested in building scalable and smart systems that fuse **AI**, **IoT**, and **embedded technologies**.
+I'm a **B.Tech Electronics & Communication Engineering student** with a **Data Science minor** at Nirma University. My work lies at the intersection of embedded systems, AI, and full-stack technology—bringing smart, scalable systems to life.
 
-- 🎓 **Electronics & Communication Student** | Minor in Data Science
-- 💡 **Projects**: AI agents, MQTT IoT systems, RISC-V, and more
-- 🤖 **AI & Embedded Enthusiast** | Merging smart code with smart hardware
-- 🌱 **Currently Learning**: Agentic AI, RISC-V ISA extensions, Node-RED, Grafana
-- 🛠️ **Goal**: Build robust end-to-end systems powered by intelligence and innovation
-
----
-
-## 🤖 AI, Embedded & ML Skills
-
-<div align="center">
-
-| **Area** | **Tech Stack** |
-|---------|----------------|
-| 🔌 Embedded Systems | ESP32/ESP8266, Arduino, C/C++, MicroPython |
-| 📶 IoT & MQTT | Mosquitto, Node-RED, Grafana, InfluxDB, Blynk    |
-| 🤖 AI/ML | Python, Scikit-learn, TensorFlow, Isolation Forest    |
-| 🧠 RISC-V | QEMU, Spike, riscv-gcc, Custom ISA Instructions      |
-| 🧪 Data Tools | Pandas, NumPy, Matplotlib, Seaborn               |
-
-</div>
+- 🔬 **Intern @ ONGC Ahmedabad**: PLC, VLANs, MODBUS/PROFIBUS config
+- ⚙️ **RISC-V Enthusiast**: Designed single-cycle processor with ALU & control modules
+- 📊 **ML Projects**: Anomaly detection, PCAP classification
+- 🌱 **Currently exploring**: Agentic AI, Node-RED pipelines, Grafana dashboards
+- 🌐 **Goal**: Build impactful AI + Embedded solutions
 
 ---
 
-## 💻 Tech Stack
+## 💡 Key Projects
+
+- **🔍 Network Protocol Classification & Anomaly Detection**  
+  Python, Scikit-learn, ML models (Random Forest, Isolation Forest), PCAP files, Sktlearn pipelines
+
+- **📡 Pwnagotchi Packet Sniffer + Wireshark Analysis**  
+  Raspberry Pi, Wi-Fi handshake capture, WPA cracking, CSV Wireshark automation
+
+- **🧠 RISC-V Single-Cycle Processor**  
+  Verilog HDL, ALU, control unit, memory/register modules, ModelSim + Quartus simulation
+
+- **🌿 ESP32 Smart Plant Monitoring System**  
+  ESP32, DHT11, MQTT, Node-RED, MongoDB, Grafana; sent calibrated sensor data to InfluxDB and visualized it
+
+- **🧮 IP Addressing + Subnetting CLI Tool**  
+  C Language, binary conversion, network class, CIDR detection
+
+---
+
+## 💻 Technical Skills
 
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### **Frameworks & Tools**
+### **Embedded / IoT / Protocols**
+![ESP32](https://img.shields.io/badge/ESP32-0070C0?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
+
+### **Frameworks & Data Tools**
 ![Node-RED](https://img.shields.io/badge/Node--RED-BD2C00?style=for-the-badge&logo=nodered&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-
-### **Databases & Cloud**
-![MongoDB](https://img.shields.io/badge/MongoDB-10AA50?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0C4B8C?style=for-the-badge&logo=plotly&logoColor=white)
+
+### **EDA / HDL / Simulation**
+![ModelSim](https://img.shields.io/badge/ModelSim-003B70?style=for-the-badge&logo=intel&logoColor=white)
+![Quartus](https://img.shields.io/badge/Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=verilog&logoColor=white)
+
+---
+
+## 📜 Certifications
+
+- ✅ [Machine Learning by Andrew Ng (Stanford / Coursera)](https://www.coursera.org/learn/machine-learning)
+- ✅ [CS50: Introduction to Computer Science (Harvard / edX)](https://cs50.harvard.edu/x)
 
 ---
 
@@ -81,7 +101,7 @@ I'm a **final-year ECE undergrad** with a **minor in Data Science**, deeply inte
 
 ---
 
-## 🌍 Let's Connect!
+## 🌍 Let's Connect
 
 <div align="center">
 
@@ -103,13 +123,14 @@ I'm a **final-year ECE undergrad** with a **minor in Data Science**, deeply inte
 
 ## 🎯 Current Focus
 
-- 📡 **Smart IoT**: MQTT systems, Grafana dashboards, Python analytics
-- 🧠 **RISC-V**: Custom instruction set simulation using QEMU/Spike
-- 🧪 **ML**: Anomaly detection for network traffic, protocol classification
-- 🌱 **Open Source**: Contributing to embedded + AI integrations
+- 🌱 **Smart Systems**: ESP32, sensor fusion, MQTT to cloud
+- 🔧 **RISC-V ISA**: Custom instruction simulation, MAC/MOD units
+- 📡 **Network ML**: PCAP classification, anomaly detection
+- 🔗 **Pwnagotchi / Cybersec**: WPA sniffing, Wireshark scripting
+- ✨ **Open Source**: Making tools accessible for embedded + AI
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting%20my%20profile!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=65" />
 </div>
