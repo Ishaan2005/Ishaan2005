@@ -1,26 +1,65 @@
-<h1 align="center">Hi 👋, I'm Ishaan Bhimajiyani</h1>
-<h3 align="center">A passionate Electronics student from India</h3>
+# Hi, I'm Ishaan Bhimajiyani
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishaan2005" alt="ishaan2005" /></a> </p>
+### Electronics & Communication Engineering Student | Aspiring Embedded Systems & Data Science Engineer
 
-- 🔭 I’m currently working on **Network Protocol Classification using ML**
+I'm currently a 6th-semester undergraduate student from India with a minor in Data Science. I enjoy working at the intersection of embedded systems, computer networks, and machine learning.
 
-- 🌱 I’m currently learning **Pandas, Numpy, Verilog, scikit, Computer Networking and C language**
+---
 
-- 📫 How to reach me **ishaanbhimaji@gmail.com**
+## 🚀 Current Focus
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ishaan-bhimajiyani-8269a9255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishaan bhimajiyani" height="30" width="40" /></a>
-<a href="[https://instagram.com/the_magical_muggle_](https://www.instagram.com/ishaan._.1105/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_magical_muggle_" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/myopicrabbit00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="myopicrabbit00" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/myopic_rabbit001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="myopic_rabbit001" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ishaanbhimaji2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ishaanbhimaji2005" height="30" width="40" /></a>
-</p>
+- **Project**: Network Protocol Classification using Machine Learning  
+- **Learning**: Pandas, NumPy, Verilog, scikit-learn, Computer Networking, and the C language
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishaan2005&show_icons=true&locale=en" alt="ishaan2005" /></p>
+## 🛠️ Skill Set
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishaan2005&" alt="ishaan2005" /></p>
+| Domain                  | Tools & Languages                                             |
+|------------------------|---------------------------------------------------------------|
+| **Programming**        | C, C++, Python, MATLAB                                        |
+| **Data Science**       | Pandas, NumPy, scikit-learn, Matplotlib                       |
+| **Embedded Systems**   | ESP32, Arduino, Verilog, DHT11, Soil Sensors, MQTT, Blynk    |
+| **Development Tools**  | Git, GitHub, VS Code, Arduino IDE, Node-RED                  |
+| **Databases & IOT**    | MongoDB, Grafana, MQTT, InfluxDB                             |
+| **Competitive Coding** | Codeforces, HackerRank, CodeChef                             |
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ishaan2005&show_icons=true&theme=default&hide_border=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ishaan2005&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan2005&layout=compact&hide_border=true)
+
+---
+
+## 🔗 Connect with Me
+
+- **LinkedIn**: [ishaan-bhimajiyani](https://www.linkedin.com/in/ishaan-bhimajiyani-8269a9255/)
+- **Instagram**: [@ishaan._.1105](https://www.instagram.com/ishaan._.1105/)
+- **HackerRank**: [myopic_rabbit001](https://www.hackerrank.com/myopic_rabbit001)
+- **CodeChef**: [myopicrabbit00](https://www.codechef.com/users/myopicrabbit00)
+- **Codeforces**: [ishaanbhimaji2005](https://codeforces.com/profile/ishaanbhimaji2005)
+- **Email**: ishaanbhimaji@gmail.com
+
+---
+
+## 🔢 Visitor Counter
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Ishaan2005&label=Profile%20Views&color=0e75b6&style=flat)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Ishaan2005&theme=flat&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📌 Highlight Projects
+
+- [ESP32 Plant Monitoring System](https://github.com/Ishaan2005/ESP32_plant_monitoring_system)  
+  A smart IoT-based solution for plant monitoring using MQTT, Node-RED, MongoDB, and Grafana.
+
+_(You can update this section with more projects as they grow.)_
