@@ -2,8 +2,8 @@ name: Generate Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # runs daily at midnight UTC
-  workflow_dispatch:      # allows manual run from GitHub UI
+    - cron: "0 0 * * *"  # every day at midnight
+  workflow_dispatch:      # allow manual run
 
 jobs:
   build:
@@ -11,14 +11,13 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate pacman.svg
-        uses: Platane/snk@master
+      - name: Generate pacman graph SVG
+        uses: Platane/snk@v3
         with:
           github_user_name: Ishaan2005
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Push to output branch
+      - name: Push SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
