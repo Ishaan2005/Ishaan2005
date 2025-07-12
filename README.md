@@ -1,65 +1,100 @@
-# Hi, I'm Ishaan Bhimajiyani
+<h1 align="center">Hey 👋What's Up?</h1>
 
-### Electronics & Communication Engineering Student | Aspiring Embedded Systems & Data Science Engineer
+###
 
-I'm currently a 6th-semester undergraduate student from India with a minor in Data Science. I enjoy working at the intersection of embedded systems, computer networks, and machine learning.
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
----
+###
 
-## 🚀 Current Focus
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="60" alt="putty logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="60" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+</div>
 
-- **Project**: Network Protocol Classification using Machine Learning  
-- **Learning**: Pandas, NumPy, Verilog, scikit-learn, Computer Networking, and the C language
+###
 
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Ishaan2005&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Ishaan2005&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-## 🛠️ Skill Set
+###
 
-| Domain                  | Tools & Languages                                             |
-|------------------------|---------------------------------------------------------------|
-| **Programming**        | C, C++, Python, MATLAB                                        |
-| **Data Science**       | Pandas, NumPy, scikit-learn, Matplotlib                       |
-| **Embedded Systems**   | ESP32, Arduino, Verilog, DHT11, Soil Sensors, MQTT, Blynk    |
-| **Development Tools**  | Git, GitHub, VS Code, Arduino IDE, Node-RED                  |
-| **Databases & IOT**    | MongoDB, Grafana, MQTT, InfluxDB                             |
-| **Competitive Coding** | Codeforces, HackerRank, CodeChef                             |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ishaan2005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ishaan2005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
----
+###
 
-## 📈 GitHub Stats
+<br clear="both">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ishaan2005&show_icons=true&theme=default&hide_border=true)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ishaan2005&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan2005&layout=compact&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/pacman-contribution-graph.svg">
+</picture>
 
----
+###
 
-## 🔗 Connect with Me
+<div align="left">
+</div>
 
-- **LinkedIn**: [ishaan-bhimajiyani](https://www.linkedin.com/in/ishaan-bhimajiyani-8269a9255/)
-- **Instagram**: [@ishaan._.1105](https://www.instagram.com/ishaan._.1105/)
-- **HackerRank**: [myopic_rabbit001](https://www.hackerrank.com/myopic_rabbit001)
-- **CodeChef**: [myopicrabbit00](https://www.codechef.com/users/myopicrabbit00)
-- **Codeforces**: [ishaanbhimaji2005](https://codeforces.com/profile/ishaanbhimaji2005)
-- **Email**: ishaanbhimaji@gmail.com
+###
 
----
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
+</div>
 
-## 🔢 Visitor Counter
+###
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Ishaan2005&label=Profile%20Views&color=0e75b6&style=flat)
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
+  </a>
+</div>
 
----
+###
 
-## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ishaan2005.Ishaan2005&"  />
+</div>
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Ishaan2005&theme=flat&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📌 Highlight Projects
-
-- [ESP32 Plant Monitoring System](https://github.com/Ishaan2005/ESP32_plant_monitoring_system)  
-  A smart IoT-based solution for plant monitoring using MQTT, Node-RED, MongoDB, and Grafana.
-
-_(You can update this section with more projects as they grow.)_
+###
