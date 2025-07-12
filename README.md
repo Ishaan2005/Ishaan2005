@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Ishaan+Bhimajiyani+%F0%9F%91%8B;ECE+Undergrad+%7C+AI+%2B+Embedded+Systems+Enthusiast;Transforming+Ideas+into+Tech+Solutions+%F0%9F%A4%96;Let's+Engineer+Something+Awesome!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Ishaan+Bhimajiyani+%F0%9F%91%8B;ECE+Undergrad+%7C+AI+%2B+Embedded+Systems+Enthusiast;Transforming+Ideas+into+Tech+Solutions+%F0%9F%A4%96;Let's+Engineer+Something+Awesome!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -16,7 +16,6 @@
 
 I'm a **B.Tech Electronics & Communication Engineering student** with a **Data Science minor** at Nirma University. My work lies at the intersection of embedded systems, AI, and full-stack technology—bringing smart, scalable systems to life.
 
-=
 - **RISC-V Enthusiast**: Designed single-cycle processor with ALU & control modules
 - **ML Projects**: Anomaly detection, PCAP classification
 - **Currently exploring**: Agentic AI, Node-RED pipelines, Grafana dashboards
