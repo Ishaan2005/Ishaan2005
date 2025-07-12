@@ -1,29 +1,115 @@
-<h1 align="center">Hi 👋, I'm Ishaan Bhimajiyani</h1>
-<h3 align="center">A Final Year Electronics Student</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Ishaan+Bhimajiyani+%F0%9F%91%8B;ECE+Undergrad+%7C+AI+%2B+Embedded+Systems+Enthusiast;Building+Intelligent+Tech+Solutions+%F0%9F%A4%96;Let's+Engineer+Something+Awesome!" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishaan2005&label=Profile%20views&color=0e75b6&style=flat" alt="ishaan2005" /> </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ishaan2005&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Ishaan2005?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Ishaan2005?label=Stars&style=social" alt="GitHub Stars" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishaan2005" alt="ishaan2005" /></a> </p>
+---
 
-- 🔭 I’m currently working on **Network Protocol Classification using ML**
+## 🚀 About Me
 
-- 🌱 I’m currently learning **ML, Computer Networks, Verilog and Embedded C**
+> *"Curious mind, always exploring. From microcontrollers to machine learning."*
 
-- 📫 How to reach me **ishaanbhimaji@gmail.com**
+I'm a **final-year ECE undergrad** with a **minor in Data Science**, deeply interested in building scalable and smart systems that fuse **AI**, **IoT**, and **embedded technologies**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ishaan-bhimajiyani-8269a9255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishaan-bhimajiyani-8269a9255/" height="30" width="40" /></a>
-<a href="https://kaggle.com/ishaanbhimajiyani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ishaanbhimajiyani" height="30" width="40" /></a>
-<a href="https://instagram.com/ishaan._.112005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishaan._.112005" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/myopicrabbit00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="myopicrabbit00" height="30" width="40" /></a>
-</p>
+- 🎓 **Electronics & Communication Student** | Minor in Data Science
+- 💡 **Projects**: AI agents, MQTT IoT systems, RISC-V, and more
+- 🤖 **AI & Embedded Enthusiast** | Merging smart code with smart hardware
+- 🌱 **Currently Learning**: Agentic AI, RISC-V ISA extensions, Node-RED, Grafana
+- 🛠️ **Goal**: Build robust end-to-end systems powered by intelligence and innovation
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishaan2005&show_icons=true&locale=en&layout=compact" alt="ishaan2005" /></p>
+## 🤖 AI, Embedded & ML Skills
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishaan2005&show_icons=true&locale=en" alt="ishaan2005" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishaan2005&" alt="ishaan2005" /></p>
+| **Area** | **Tech Stack** |
+|---------|----------------|
+| 🔌 Embedded Systems | ESP32/ESP8266, Arduino, C/C++, MicroPython |
+| 📶 IoT & MQTT | Mosquitto, Node-RED, Grafana, InfluxDB, Blynk    |
+| 🤖 AI/ML | Python, Scikit-learn, TensorFlow, Isolation Forest    |
+| 🧠 RISC-V | QEMU, Spike, riscv-gcc, Custom ISA Instructions      |
+| 🧪 Data Tools | Pandas, NumPy, Matplotlib, Seaborn               |
+
+</div>
+
+---
+
+## 💻 Tech Stack
+
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
+
+### **Frameworks & Tools**
+![Node-RED](https://img.shields.io/badge/Node--RED-BD2C00?style=for-the-badge&logo=nodered&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+
+### **Databases & Cloud**
+![MongoDB](https://img.shields.io/badge/MongoDB-10AA50?style=for-the-badge&logo=mongodb&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ishaan2005&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ishaan2005&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan2005&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ishaan2005&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
+</div>
+
+---
+
+## 🌍 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishaan-bhimajiyani-8269a9255/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ishaan2005)
+[![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+## 💬 Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- 📡 **Smart IoT**: MQTT systems, Grafana dashboards, Python analytics
+- 🧠 **RISC-V**: Custom instruction set simulation using QEMU/Spike
+- 🧪 **ML**: Anomaly detection for network traffic, protocol classification
+- 🌱 **Open Source**: Contributing to embedded + AI integrations
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=65" />
+</div>
