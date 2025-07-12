@@ -16,34 +16,15 @@
 
 I'm a **B.Tech Electronics & Communication Engineering student** with a **Data Science minor** at Nirma University. My work lies at the intersection of embedded systems, AI, and full-stack technology—bringing smart, scalable systems to life.
 
-- 🔬 **Intern @ ONGC Ahmedabad**: PLC, VLANs, MODBUS/PROFIBUS config
-- ⚙️ **RISC-V Enthusiast**: Designed single-cycle processor with ALU & control modules
-- 📊 **ML Projects**: Anomaly detection, PCAP classification
-- 🌱 **Currently exploring**: Agentic AI, Node-RED pipelines, Grafana dashboards
-- 🌐 **Goal**: Build impactful AI + Embedded solutions
+=
+- **RISC-V Enthusiast**: Designed single-cycle processor with ALU & control modules
+- **ML Projects**: Anomaly detection, PCAP classification
+- **Currently exploring**: Agentic AI, Node-RED pipelines, Grafana dashboards
+- **Goal**: Build impactful AI + Embedded solutions
 
 ---
 
-## 💡 Key Projects
-
-- **🔍 Network Protocol Classification & Anomaly Detection**  
-  Python, Scikit-learn, ML models (Random Forest, Isolation Forest), PCAP files, Sktlearn pipelines
-
-- **📡 Pwnagotchi Packet Sniffer + Wireshark Analysis**  
-  Raspberry Pi, Wi-Fi handshake capture, WPA cracking, CSV Wireshark automation
-
-- **🧠 RISC-V Single-Cycle Processor**  
-  Verilog HDL, ALU, control unit, memory/register modules, ModelSim + Quartus simulation
-
-- **🌿 ESP32 Smart Plant Monitoring System**  
-  ESP32, DHT11, MQTT, Node-RED, MongoDB, Grafana; sent calibrated sensor data to InfluxDB and visualized it
-
-- **🧮 IP Addressing + Subnetting CLI Tool**  
-  C Language, binary conversion, network class, CIDR detection
-
----
-
-## 💻 Technical Skills
+## Technical Skills
 
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
@@ -71,15 +52,6 @@ I'm a **B.Tech Electronics & Communication Engineering student** with a **Data S
 ![Quartus](https://img.shields.io/badge/Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=verilog&logoColor=white)
 
----
-
-## 📜 Certifications
-
-- ✅ [Machine Learning by Andrew Ng (Stanford / Coursera)](https://www.coursera.org/learn/machine-learning)
-- ✅ [CS50: Introduction to Computer Science (Harvard / edX)](https://cs50.harvard.edu/x)
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -101,6 +73,11 @@ I'm a **B.Tech Electronics & Communication Engineering student** with a **Data S
 
 ---
 
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishaan2005&theme=react-dark&bg_color=1F222E&hide_border=true" alt="Contribution Graph" />
+</div>
+
 ## 🌍 Let's Connect
 
 <div align="center">
@@ -113,7 +90,8 @@ I'm a **B.Tech Electronics & Communication Engineering student** with a **Data S
 
 ---
 
-## 💬 Dev Quote
+
+## Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
@@ -121,13 +99,13 @@ I'm a **B.Tech Electronics & Communication Engineering student** with a **Data S
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
-- 🌱 **Smart Systems**: ESP32, sensor fusion, MQTT to cloud
-- 🔧 **RISC-V ISA**: Custom instruction simulation, MAC/MOD units
-- 📡 **Network ML**: PCAP classification, anomaly detection
-- 🔗 **Pwnagotchi / Cybersec**: WPA sniffing, Wireshark scripting
-- ✨ **Open Source**: Making tools accessible for embedded + AI
+- **Smart Systems**: ESP32, sensor fusion, MQTT to cloud
+- **RISC-V ISA**: Custom instruction simulation, MAC/MOD units
+- **Network ML**: PCAP classification, anomaly detection
+- **Pwnagotchi / Cybersec**: WPA sniffing, Wireshark scripting
+- **Open Source**: Making tools accessible for embedded + AI
 
 ---
 
