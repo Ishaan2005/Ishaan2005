@@ -19,14 +19,8 @@
 🎓 Final year **B.Tech in Electronics & Communication Engineering**  
 🎯 Minor in **Data Science** at **Nirma University**, Ahmedabad, India
 
-💻 A technologist passionate about **network security**, **embedded systems**, and **data-driven automation**  
-🧠 Keen on using **machine learning for anomaly detection**, **protocol analysis**, and **low-level microcontroller programming**
-
-🔍 **Current explorations**:
-- 🛰️ Pwnagotchi & WPA sniffing
-- 🔐 Secure MQTT pipelines
-- 📈 Smart plant analytics with Node-RED + Grafana
-- 🧮 Custom RISC-V instruction simulation
+💻 Passionate about **network security**, **embedded systems**, and **data-driven automation**  
+🧠 Keen on **machine learning for anomaly detection**, **protocol analysis**, and **low-level microcontroller programming**
 
 ---
 
@@ -34,51 +28,41 @@
 
 | Project | Stack | Description |
 |--------|--------|-------------|
-| **🔐 Network Protocol Anomaly Detection** | Python, Scikit-learn | Trained classifiers on PCAP files to detect abnormal traffic |
-| **📶 Wireshark WPA Sniffer** | Raspberry Pi, Bash, Linux | Captured & parsed WPA handshakes using Pwnagotchi + Wireshark |
-| **🧱 RISC-V CPU (Single Cycle)** | Verilog, ModelSim, Quartus | Built modular CPU with ALU, Control Unit, Register File |
-| **🌱 ESP32 Smart Plant Monitoring** | ESP32, MQTT, MongoDB, Grafana | Monitored live humidity/temperature with real-time dashboard |
-| **🧮 IP Subnet Calculator** | C | Built CLI tool for subnetting with CIDR, mask, host address calc |
+| 🔐 **Network Protocol Anomaly Detection** | Python, Scikit-learn | Trained classifiers on PCAP files to detect abnormal traffic |
+| 📶 **Wireshark WPA Sniffer** | Raspberry Pi, Bash, Linux | Captured & parsed WPA handshakes using Pwnagotchi + Wireshark |
+| 🧱 **RISC-V CPU (Single Cycle)** | Verilog, ModelSim, Quartus | Built modular CPU with ALU, Control Unit, Register File |
+| 🌱 **ESP32 Smart Plant Monitoring** | ESP32, MQTT, MongoDB, Grafana | Real-time dashboard for environmental data |
+| 🧮 **IP Subnet Calculator** | C | CIDR, mask, and address range visualizer CLI tool |
 
 ---
 
-## 🔧 My Toolbox
+## 📊 GitHub Analytics
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=verilog&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### 📈 Activity Overview (Past Year)
 
-### 🛠️ Embedded, Networking & Analysis
-![ESP32](https://img.shields.io/badge/ESP32-0070C0?style=for-the-badge&logo=espressif&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Node-RED](https://img.shields.io/badge/Node--RED-BD2C00?style=for-the-badge&logo=nodered&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ishaan2005&theme=react-dark&bg_color=1F222E&hide_border=true)
 
-### 📊 Data & AI
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0C4B8C?style=for-the-badge&logo=plotly&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 💻 HDL & Simulation
-![ModelSim](https://img.shields.io/badge/ModelSim-003B70?style=for-the-badge&logo=intel&logoColor=white)
-![Quartus](https://img.shields.io/badge/Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-
-
-## 📈 GitHub Analytics
+### 📊 Stats & Contributions
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ishaan2005&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishaan2005&theme=tokyonight&hide_border=true" width="48%"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan2005&layout=compact&theme=tokyonight&hide_border=true" width="50%"/>
-</div>
+---
+
+## 🌐 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan2005&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🧩 GitHub Activity Breakdown
+
+<!-- Replace with your GitHub Insights card if using external data like metrics.lecoq.io -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishaan2005&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ishaan2005&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishaan2005&theme=github_dark" />
 
 ---
 
@@ -90,26 +74,33 @@
 
 ---
 
-## 📍 Connect With Me
+## 🛠️ Toolbox
 
-<div align="center">
-  <a href="mailto:22becf62@nirmauni.ac.in"><img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/ishaan-bhimajiyani-8269a9255/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Ishaan2005"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
-</div>
+### Languages  
+Python, C, Verilog, SQL, Bash
 
----
+### Embedded Systems & Protocols  
+ESP32, MQTT, Wireshark, Node-RED, Arduino, UART, MODBUS
 
-## 🎯 Focus Areas
+### Data Tools  
+Pandas, NumPy, Matplotlib, Scikit-learn, MongoDB, Grafana, InfluxDB
 
-- 🧠 AI-enhanced anomaly detection on network protocols  
-- 🔍 Embedded intelligence with ESP32 & IoT pipelines  
-- 🛠️ System-level design of processors using Verilog  
-- 📈 Smart dashboards with Node-RED, Grafana, and InfluxDB  
-- 🔓 Cybersecurity experiments using Linux tools
+### EDA & Simulation  
+ModelSim, Quartus Prime, RISC-V, HDL, FPGA
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer&text=Thanks%20for%20visiting%20my%20profile!&fontSize=22&fontColor=ffffff&animation=twinkling" />
-</div>
+## 📌 Tech Stack Icons (Frontend Style Showcase Example)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,c,arduino,verilog,linux,mysql,bash,vscode,raspberrypi,githubactions" />
+</p>
+
+---
+
+## 🎧 Now Playing (Spotify)
+
+> 💡 You need [GitHub Readme Spotify](https://github.com/kittinan/spotify-github-profile) for this
+
+```markdown
+[![Spotify](https://novatorem-ishaan2005.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
