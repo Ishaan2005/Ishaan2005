@@ -18,34 +18,22 @@ I'm an **Electronics and Communication Engineering** undergrad with a **minor in
 
 ---
 
-## 🔍 Domain Expertise
-
-| **Domain**       | **Tech Stack / Tools**                                                                 |
-|------------------|----------------------------------------------------------------------------------------|
-| 📡 Networking     | Wireshark, Cisco IOS, DHCP, VLANs, PCAP Analysis, Pwnagotchi                          |
-| 🧠 Machine Learning | Scikit-learn, Pandas, NumPy, Matplotlib, Random Forests, Isolation Forests          |
-| 💻 Embedded Systems | ESP32, MQTT, Node-RED, MongoDB, Grafana, DHT11 Sensors                               |
-| 🔧 VLSI & HDL     | Verilog HDL, ModelSim, Quartus, OpenLane, Digital Design, ALU/Control Design          |
-| 🌐 Web/Tooling    | Bash, Git, Linux (RHEL), Arduino IDE, Python                                          |
-
----
-
 ## 🛠 Projects Snapshot
 
-- **🔐 Network Protocol Classification & Anomaly Detection**
-  - PCAP parsing with Scikit-learn, trained ML models to detect anomalies.
+- **🔐 Network Protocol Classification & Anomaly Detection**  
+  PCAP parsing with Scikit-learn, trained ML models to detect anomalies.
 
-- **📡 Pwnagotchi Packet Sniffer & Wireshark Automation**
-  - Automated WPA handshake capture, custom Wireshark parsing.
+- **📡 Pwnagotchi Packet Sniffer & Wireshark Automation**  
+  Automated WPA handshake capture, custom Wireshark parsing.
 
-- **🔧 RISC-V Single Cycle Processor Design**
-  - Designed 5-stage modules: ALU, control, memory; GDS generated using OpenLane.
+- **🔧 RISC-V Single Cycle Processor Design**  
+  Designed 5-stage modules: ALU, control, memory; GDS generated using OpenLane.
 
-- **🌱 ESP32 Plant Monitoring System**
-  - MQTT-based smart dashboard to monitor temperature, light, and humidity.
+- **🌱 ESP32 Plant Monitoring System**  
+  MQTT-based smart dashboard to monitor temperature, light, and humidity.
 
-- **🧮 IP Calculator in C**
-  - CLI tool to convert IP/subnet to CIDR and binary masks.
+- **🧮 IP Calculator in C**  
+  CLI tool to convert IP/subnet to CIDR and binary masks.
 
 ---
 
@@ -81,8 +69,29 @@ I'm an **Electronics and Communication Engineering** undergrad with a **minor in
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourGitHubUsername&show_icons=true&theme=react&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourGitHubUsername&theme=react" />
+ 
+  <img src="https://streak-stats.demolab.com/?user=yourGitHubUsername&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourGitHubUsername&custom_title=Ishaan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+  <br>
+
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourGitHubUsername&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yourGitHubUsername&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yourGitHubUsername&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+      </td>
+    </tr>
+  </table>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=yourGitHubUsername&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Ishaan's GitHub stats">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourGitHubUsername&theme=highcontrast&hide_border=true" alt="Profile Details">
 </div>
 
 ---
