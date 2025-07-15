@@ -1,51 +1,107 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Ishaan+%F0%9F%91%8B;Engineering+Student+%7C+VLSI+%2B+Networks+%2B+ML+Projects;RISC-V%2C+Pwnagotchi%2C+ESP32%2C+Wireshark+%26+More!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Ishaan+%F0%9F%91%8B;Engineering+Student+%7C+Network+%2B+VLSI+Projects;Pwnagotchi%2C+Verilog%2C+ESP32%2C+and+ML+Researcher!" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🌐 Connect with Me
+## 🚀 About Me
 
-| Platform | Link |
-|----------|------|
-| <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> | [LinkedIn Profile](https://www.linkedin.com/in/ishaan-bhimajiyani-8269a9255/) |
-| <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/> | [u/Jumpy_Version_6857](https://www.reddit.com/user/Jumpy_Version_6857/) |
-| <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> | [@Ishaan2005](https://github.com/Ishaan2005) |
-| <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> | [@ishaan._.1105](https://www.instagram.com/ishaan._.1105/) |
-| <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> | `ishaan_63793` |
+> *"Turning complex systems into working code with precision and curiosity."*
+
+I'm an **Electronics and Communication Engineering** undergrad with a **minor in Data Science** at Nirma University. I actively work on projects in **VLSI**, **embedded systems**, **networking**, and **machine learning**—with a strong focus on hands-on implementation and real-world applications.
+
+- 🛠️ **Projects**: RISC-V Processor, ESP32 Smart Plant Monitor, Pwnagotchi Network Analysis, Wireshark Automation  
+- 🌐 **Networking**: Hands-on with VLANs, Cisco IOS, DHCP, Wireshark, and packet capture  
+- 🤖 **ML/DS**: Applied Random Forests and Isolation Forests to PCAP data for anomaly detection  
+- 💡 **VLSI**: Single-cycle RISC-V processor design with OpenLane GDS generation  
+- 🐧 **Tools & OS**: Skilled with Linux, RHEL, Git, VS Code, and Open-source toolchains  
+
+---
+
+## 🛠 Projects Snapshot
+
+- **🔐 Network Protocol Classification & Anomaly Detection**  
+  PCAP parsing with Scikit-learn, trained ML models to detect anomalies.
+
+- **📡 Pwnagotchi Packet Sniffer & Wireshark Automation**  
+  Automated WPA handshake capture, custom Wireshark parsing.
+
+- **🔧 RISC-V Single Cycle Processor Design**  
+  Designed 5-stage modules: ALU, control, memory; GDS generated using OpenLane.
+
+- **🌱 ESP32 Plant Monitoring System**  
+  MQTT-based smart dashboard to monitor temperature, light, and humidity.
+
+- **🧮 IP Calculator in C**  
+  CLI tool to convert IP/subnet to CIDR and binary masks.
+
+---
+
+## 💻 Tech Stack
+
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-009999?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### **Frameworks & Tools**
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Node-RED](https://img.shields.io/badge/Node--RED-B92828?style=for-the-badge&logo=nodered&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+### **Simulation & EDA**
+![ModelSim](https://img.shields.io/badge/ModelSim-007ACC?style=for-the-badge)
+![Quartus](https://img.shields.io/badge/Quartus-007ACC?style=for-the-badge)
+![OpenLane](https://img.shields.io/badge/OpenLane-FF9A00?style=for-the-badge)
+
+
+## 📊 GitHub Stats & Analytics
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ishaan2005&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishaan2005&theme=default" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Ishaan2005&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishaan2005&theme=react&hide_border=true&bg_color=ffffff&color=008000&line=006400&point=228B22&area_color=90ee90&area=true&title_color=006400" alt="Activity Graph" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ishaan2005&hide_border=true&border_radius=15&show_icons=true&theme=default" alt="Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishaan2005&custom_title=Ishaan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan2005&hide=html&hide_border=true&layout=compact&langs_count=8&theme=default" alt="Top Languages">
+
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan2005&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishaan2005&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ishaan2005&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+      </td>
+    </tr>
+  </table>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Ishaan2005&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Ishaan's GitHub stats">
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishaan2005&theme=highcontrast&hide_border=true" alt="Profile Details">
 </div>
-
----
-
-## 🧠 README.md Activity Summary
-
-> Here’s how I've been engaging recently on GitHub:
-
-![Metrics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishaan2005&theme=default)
 
 ---
 
 ## 💡 Random Dev Wisdom
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishaan-bhimajiyani-8269a9255/)
+[![Email](https://img.shields.io/badge/Email-22bec052@nirmauni.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2bber662@nirmauni.ac.in)
+
 </div>
 
 ---
