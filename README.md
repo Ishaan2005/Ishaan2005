@@ -1,94 +1,103 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
-
-<h1 align="center">Hello &nbsp;<img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"> , I'm Ishaan Bhimajiyani</h1>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=ECE+Undergrad+%7C+ML+Learner;Embedded+Systems+%7C+Debugger+%7C+C+Programmer;IoT+Dev+%7C+Linux+%26+Networks+Explorer" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  Developer | Network Analyst | Tech Explorer
-</p>
-
----
-
-## 🌐 Connect with Me
-
-| Portfolio | YouTube | Instagram | LinkedIn | GitHub |
-| --- | --- | --- | --- | --- |
-| [ishaanbhimajiyani.vercel.app](https://ishaanbhimajiyani.vercel.app) | [@yourchannel](https://www.youtube.com/@yourchannel) | [@yourhandle](https://instagram.com/yourhandle) | [@ishaanbhimajiyani](https://linkedin.com/in/ishaanbhimajiyani) | [@Ishaan2005](https://github.com/Ishaan2005) |
-
-| Twitter | Discord | Reddit |
-| --- | --- | --- |
-| [@ishaan_codes](https://x.com/ishaan_codes) | [discord.gg/yourinvite](https://discord.gg/yourinvite) | [u/yourreddit](https://reddit.com/user/yourreddit) |
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Ishaan+%F0%9F%91%8B;Engineering+Student+%7C+Network+%2B+VLSI+Projects;Pwnagotchi%2C+Verilog%2C+ESP32%2C+and+ML+Researcher!" alt="Typing SVG" />
+</div>
 
 ---
 
 ## 🚀 About Me
 
-I'm an Electronics and Communication Engineering undergrad at **Nirma University** (2022–2026) with a **Minor in Data Science**.  
-🔬 I love building low-level systems: from RISC-V CPUs in Verilog to ESP32 IoT dashboards.  
-📡 My core interests include protocol analysis, embedded debugging, Linux networking, and automation.  
-🧠 Currently learning Machine Learning, Compilers, and Secure Embedded Systems.  
-📁 Portfolio of projects available [here](https://github.com/Ishaan2005?tab=repositories).
+> *"Turning complex systems into working code with precision and curiosity."*
+
+I'm an **Electronics and Communication Engineering** undergrad with a **minor in Data Science** at Nirma University. I actively work on projects in **VLSI**, **embedded systems**, **networking**, and **machine learning**—with a strong focus on hands-on implementation and real-world applications.
+
+- 🛠️ **Projects**: RISC-V Processor, ESP32 Smart Plant Monitor, Pwnagotchi Network Analysis, Wireshark Automation
+- 🌐 **Networking**: Hands-on with VLANs, Cisco IOS, DHCP, Wireshark, and packet capture
+- 🤖 **ML/DS**: Applied Random Forests and Isolation Forests to PCAP data for anomaly detection
+- 💡 **VLSI**: Single-cycle RISC-V processor design with OpenLane GDS generation
+- 🐧 **Tools & OS**: Skilled with Linux, RHEL, Git, VS Code, and Open-source toolchains
 
 ---
 
-## 🛠️ Tech Stack
+## 🔍 Domain Expertise
 
-**Languages:**  
-`C` `Python` `Verilog` `Bash` `SQL`
-
-**Embedded & Hardware:**  
-`ESP32` `Raspberry Pi` `NodeMCU` `I2C` `SPI` `UART`
-
-**Networking Tools:**  
-`Wireshark` `nmap` `tcpdump` `Pwnagotchi`
-
-**Frameworks & Tools:**  
-`Scikit-learn` `Pandas` `NumPy` `MQTT` `MongoDB` `Grafana`  
-`ModelSim` `Quartus Prime` `Node-RED`
+| **Domain**       | **Tech Stack / Tools**                                                                 |
+|------------------|----------------------------------------------------------------------------------------|
+| 📡 Networking     | Wireshark, Cisco IOS, DHCP, VLANs, PCAP Analysis, Pwnagotchi                          |
+| 🧠 Machine Learning | Scikit-learn, Pandas, NumPy, Matplotlib, Random Forests, Isolation Forests          |
+| 💻 Embedded Systems | ESP32, MQTT, Node-RED, MongoDB, Grafana, DHT11 Sensors                               |
+| 🔧 VLSI & HDL     | Verilog HDL, ModelSim, Quartus, OpenLane, Digital Design, ALU/Control Design          |
+| 🌐 Web/Tooling    | Bash, Git, Linux (RHEL), Arduino IDE, Python                                          |
 
 ---
 
-## 🎓 Certifications
+## 🛠 Projects Snapshot
 
-- 🏅 CS50x: Intro to Computer Science – Harvard (edX)  
-- 🏅 Machine Learning Specialization – Andrew Ng (Coursera)
+- **🔐 Network Protocol Classification & Anomaly Detection**
+  - PCAP parsing with Scikit-learn, trained ML models to detect anomalies.
 
----
+- **📡 Pwnagotchi Packet Sniffer & Wireshark Automation**
+  - Automated WPA handshake capture, custom Wireshark parsing.
 
-## 📊 GitHub Stats
+- **🔧 RISC-V Single Cycle Processor Design**
+  - Designed 5-stage modules: ALU, control, memory; GDS generated using OpenLane.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ishaan2005&theme=highcontrast" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan2005&layout=compact&theme=highcontrast" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ishaan2005&show_icons=true&theme=highcontrast" />
-</p>
+- **🌱 ESP32 Plant Monitoring System**
+  - MQTT-based smart dashboard to monitor temperature, light, and humidity.
 
----
-
-## 📁 Projects Highlight
-
-- **🔍 Protocol Anomaly Detector** – Pcap feature extractor + RF model  
-- **🧠 RISC-V Single Cycle Processor** – Verilog + testbench  
-- **🌱 Smart Plant Monitor** – ESP32 + MQTT + Node-RED + Grafana  
-- **🛜 Subnet Calculator (C)** – CLI for IP/Subnet/CIDR handling  
-- **📡 Pwnagotchi Automation** – Raspberry Pi-based packet capture
+- **🧮 IP Calculator in C**
+  - CLI tool to convert IP/subnet to CIDR and binary masks.
 
 ---
 
-## 🎯 Goals
+## 💻 Tech Stack
 
-- 📚 Learn Bare-metal STM32 Dev and RTOS  
-- 💡 Build Custom Linux Distro for RISC-V  
-- 🔐 Explore AI for Network Intrusion Detection  
-- 🚀 Contribute to Open Source EDA or Kernel
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-009999?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### **Frameworks & Tools**
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Node-RED](https://img.shields.io/badge/Node--RED-B92828?style=for-the-badge&logo=nodered&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+### **Simulation & EDA**
+![ModelSim](https://img.shields.io/badge/ModelSim-007ACC?style=for-the-badge)
+![Quartus](https://img.shields.io/badge/Quartus-007ACC?style=for-the-badge)
+![OpenLane](https://img.shields.io/badge/OpenLane-FF9A00?style=for-the-badge)
 
 ---
 
-> 🧠 *“I don’t just code to solve problems. I code to understand the system.”*
+## 📜 Certifications
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
+- 📘 **Machine Learning Specialization** – Andrew Ng (Stanford via Coursera)
+- 🎓 **CS50x: Introduction to Computer Science** – HarvardX (edX)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourGitHubUsername&show_icons=true&theme=react&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourGitHubUsername&theme=react" />
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishaan-bhimajiyani)
+[![Email](https://img.shields.io/badge/Email-2bber662@nirmauni.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2bber662@nirmauni.ac.in)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=60" />
+</div>
