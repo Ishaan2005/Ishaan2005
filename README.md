@@ -1,50 +1,36 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
-<h1 align="center">Hey there! 👋 I'm Ishaan Bhimajiyani</h1>
-<h3 align="center">Electronics & Communication Engineering @ Nirma University | Minor in Data Science</h3>
+<h1 align="center">Hello &nbsp;<img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"> , I'm Ishaan Bhimajiyani</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Engineer+%7C+Developer+%7C+ML+Enthusiast+%7C+Debugger;Always+Learning+New+Things...+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=ECE+Undergrad+%7C+ML+Learner;Embedded+Systems+%7C+Debugger+%7C+C+Programmer;IoT+Dev+%7C+Linux+%26+Networks+Explorer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  Developer | Network Analyst | Tech Explorer
 </p>
 
 ---
 
-## 🌟 About Me
-- 🔭 I'm currently pursuing B.Tech in ECE at Nirma University (2022–2026)
-- 🎯 Minor in Data Science with hands-on ML & system-level projects
-- 🌱 Exploring Embedded Systems, IoT, AI/ML, Networking, and Compiler Design
-- 🛠️ Building low-level tools, shell scripts, and network analyzers
-- 💡 Passionate about open source and DevTooling
+## 🌐 Connect with Me
+
+| Portfolio | YouTube | Instagram | LinkedIn | GitHub |
+| --- | --- | --- | --- | --- |
+| [ishaanbhimajiyani.vercel.app](https://ishaanbhimajiyani.vercel.app) | [@yourchannel](https://www.youtube.com/@yourchannel) | [@yourhandle](https://instagram.com/yourhandle) | [@ishaanbhimajiyani](https://linkedin.com/in/ishaanbhimajiyani) | [@Ishaan2005](https://github.com/Ishaan2005) |
+
+| Twitter | Discord | Reddit |
+| --- | --- | --- |
+| [@ishaan_codes](https://x.com/ishaan_codes) | [discord.gg/yourinvite](https://discord.gg/yourinvite) | [u/yourreddit](https://reddit.com/user/yourreddit) |
 
 ---
 
-## 🧠 Internship – ONGC Ahmedabad (May–June 2025)
-- Configured **MODBUS**, **PROFI-BUS**, and **Foundation Fieldbus** protocols in PLC-HIU systems
-- Worked with **Cisco 1911 Routers**, **Catalyst Switches**, and **VLAN routing**
-- Set up PXE boot server using **RHEL**, **YUM repos**, and **Kickstart Automation**
-- Observed SCADA systems and industrial automation environments
+## 🚀 About Me
 
----
-
-## 🚀 Projects
-
-### 🔍 Network Protocol & Anomaly Detection
-- Extracted features from `.pcap` files
-- Used **Random Forest** & **Isolation Forest** in Scikit-learn for protocol classification
-
-### 🎯 Pwnagotchi Packet Sniffer (WiFi Analysis)
-- Configured **Raspberry Pi Zero W** running **Pwnagotchi** to sniff WPA2 handshakes
-- Parsed output using **Wireshark**, converted to CSV, performed time-series analysis
-
-### 🧠 RISC-V Single-Cycle CPU
-- Designed RISC-V processor with **Verilog**, **ModelSim**, **Intel Quartus**
-- Included ALU, register file, control unit, and memory
-
-### 🌱 ESP32 Plant Monitor System
-- Real-time soil, temp, humidity tracking with **MQTT**, **Node-RED**, **MongoDB**, and **Grafana**
-
-### 💻 Subnet & IP Calculator (C)
-- Developed a CLI tool to calculate subnet masks, CIDR blocks, broadcast addresses
+I'm an Electronics and Communication Engineering undergrad at **Nirma University** (2022–2026) with a **Minor in Data Science**.  
+🔬 I love building low-level systems: from RISC-V CPUs in Verilog to ESP32 IoT dashboards.  
+📡 My core interests include protocol analysis, embedded debugging, Linux networking, and automation.  
+🧠 Currently learning Machine Learning, Compilers, and Secure Embedded Systems.  
+📁 Portfolio of projects available [here](https://github.com/Ishaan2005?tab=repositories).
 
 ---
 
@@ -53,43 +39,56 @@
 **Languages:**  
 `C` `Python` `Verilog` `Bash` `SQL`
 
-**Hardware & IoT:**  
-`Raspberry Pi` `ESP32` `NodeMCU` `Sensors`
+**Embedded & Hardware:**  
+`ESP32` `Raspberry Pi` `NodeMCU` `I2C` `SPI` `UART`
 
-**Tools & DevOps:**  
-`Git` `Wireshark` `ModelSim` `Quartus Prime` `Node-RED` `MongoDB` `Grafana`
+**Networking Tools:**  
+`Wireshark` `nmap` `tcpdump` `Pwnagotchi`
 
-**ML & Data:**  
-`Scikit-learn` `Pandas` `NumPy` `Matplotlib`
+**Frameworks & Tools:**  
+`Scikit-learn` `Pandas` `NumPy` `MQTT` `MongoDB` `Grafana`  
+`ModelSim` `Quartus Prime` `Node-RED`
 
 ---
 
-## 📜 Certifications
-- ✅ CS50x – HarvardX (Intro to Computer Science)  
-- ✅ Machine Learning Specialization – Andrew Ng (Coursera)  
+## 🎓 Certifications
+
+- 🏅 CS50x: Intro to Computer Science – Harvard (edX)  
+- 🏅 Machine Learning Specialization – Andrew Ng (Coursera)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ishaan2005&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Ishaan2005&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan2005&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Ishaan2005&theme=highcontrast" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan2005&layout=compact&theme=highcontrast" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ishaan2005&show_icons=true&theme=highcontrast" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 📁 Projects Highlight
 
-<p align="center">
-  <a href="mailto:22becf628@nirmauni.ac.in"><img src="https://img.shields.io/badge/Gmail-22becf628@nirmauni.ac.in-red?style=flat-square&logo=gmail"></a>
-  <a href="https://linkedin.com/in/ishaanbhimajiyani"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://github.com/Ishaan2005"><img src="https://img.shields.io/badge/GitHub-Ishaan2005-181717?style=flat-square&logo=github"></a>
-</p>
+- **🔍 Protocol Anomaly Detector** – Pcap feature extractor + RF model  
+- **🧠 RISC-V Single Cycle Processor** – Verilog + testbench  
+- **🌱 Smart Plant Monitor** – ESP32 + MQTT + Node-RED + Grafana  
+- **🛜 Subnet Calculator (C)** – CLI for IP/Subnet/CIDR handling  
+- **📡 Pwnagotchi Automation** – Raspberry Pi-based packet capture
 
 ---
 
-> *“Building stuff that breaks stuff to build better stuff.”*
+## 🎯 Goals
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%"/>
+- 📚 Learn Bare-metal STM32 Dev and RTOS  
+- 💡 Build Custom Linux Distro for RISC-V  
+- 🔐 Explore AI for Network Intrusion Detection  
+- 🚀 Contribute to Open Source EDA or Kernel
+
+---
+
+> 🧠 *“I don’t just code to solve problems. I code to understand the system.”*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
