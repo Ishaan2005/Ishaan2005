@@ -1,119 +1,115 @@
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=110&section=header&text=Hey%20👋%20I'm%20Ishaan%20Bhimajiyani&fontSize=32&fontAlignY=40&desc=ECE%20Undergrad%20%7C%20AI%20%2B%20Embedded%20Systems%20%7C%20ML%20%2B%20Networks&descAlignY=60&descAlign=62"/>
+
+<!-- Typing Animation -->
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=false&vCenter=true&width=800&lines=Hey+there%2C+I'm+Ishaan+Bhimajiyani+%F0%9F%91%8B;ECE+Undergrad+%7C+AI+%2B+Embedded+Systems+Enthusiast;Transforming+Ideas+into+Tech+Solutions+%F0%9F%A4%96;Let's+Engineer+Something+Awesome!" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=ECE+%7C+Data+Science+Minor+%7C+Nirma+University;Anomaly+Detection+%2B+Embedded+AI+%2B+RISC-V;Wireshark+%7C+ESP32+%7C+Cybersecurity+%7C+Open+Source;Let's+Build+Scalable+Tech+Together!" 
     alt="Typing SVG" 
     style="max-width: 100%; height: auto;" 
   />
 </div>
 
+---
 
+## 🧠 About Me
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ishaan2005&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Ishaan2005?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Ishaan2005?label=Stars&style=social" alt="GitHub Stars" />
-</div>
+> _“Merging intelligence with embedded design to solve real-world problems.”_
+
+🎓 Final year **B.Tech in Electronics & Communication Engineering**  
+🎯 Minor in **Data Science** at **Nirma University**, Ahmedabad, India
+
+💻 A technologist passionate about **network security**, **embedded systems**, and **data-driven automation**  
+🧠 Keen on using **machine learning for anomaly detection**, **protocol analysis**, and **low-level microcontroller programming**
+
+🔍 **Current explorations**:
+- 🛰️ Pwnagotchi & WPA sniffing
+- 🔐 Secure MQTT pipelines
+- 📈 Smart plant analytics with Node-RED + Grafana
+- 🧮 Custom RISC-V instruction simulation
 
 ---
 
-## 🚀 About Me
+## 🏗️ Featured Projects
 
-> *"Merging hardware and intelligence to create real-world impact."*
-
-I'm a **B.Tech Electronics & Communication Engineering student** with a **Data Science minor** at Nirma University. My work lies at the intersection of embedded systems, AI, and full-stack technology—bringing smart, scalable systems to life.
-
-- **RISC-V Enthusiast**: Designed single-cycle processor with ALU & control modules
-- **ML Projects**: Anomaly detection, PCAP classification
-- **Currently exploring**: Agentic AI, Node-RED pipelines, Grafana dashboards
-- **Goal**: Build impactful AI + Embedded solutions
+| Project | Stack | Description |
+|--------|--------|-------------|
+| **🔐 Network Protocol Anomaly Detection** | Python, Scikit-learn | Trained classifiers on PCAP files to detect abnormal traffic |
+| **📶 Wireshark WPA Sniffer** | Raspberry Pi, Bash, Linux | Captured & parsed WPA handshakes using Pwnagotchi + Wireshark |
+| **🧱 RISC-V CPU (Single Cycle)** | Verilog, ModelSim, Quartus | Built modular CPU with ALU, Control Unit, Register File |
+| **🌱 ESP32 Smart Plant Monitoring** | ESP32, MQTT, MongoDB, Grafana | Monitored live humidity/temperature with real-time dashboard |
+| **🧮 IP Subnet Calculator** | C | Built CLI tool for subnetting with CIDR, mask, host address calc |
 
 ---
 
-## Technical Skills
+## 🔧 My Toolbox
 
-### **Languages**
+### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=verilog&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### **Embedded / IoT / Protocols**
+### 🛠️ Embedded, Networking & Analysis
 ![ESP32](https://img.shields.io/badge/ESP32-0070C0?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
-
-### **Frameworks & Data Tools**
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Node-RED](https://img.shields.io/badge/Node--RED-BD2C00?style=for-the-badge&logo=nodered&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+### 📊 Data & AI
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0C4B8C?style=for-the-badge&logo=plotly&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### **EDA / HDL / Simulation**
+### 💻 HDL & Simulation
 ![ModelSim](https://img.shields.io/badge/ModelSim-003B70?style=for-the-badge&logo=intel&logoColor=white)
 ![Quartus](https://img.shields.io/badge/Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=verilog&logoColor=white)
 
-## 📈 GitHub Stats
+
+## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ishaan2005&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ishaan2005&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ishaan2005&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishaan2005&theme=tokyonight&hide_border=true" width="48%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan2005&layout=compact&theme=radical&hide_border=true" />
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ishaan2005&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan2005&layout=compact&theme=tokyonight&hide_border=true" width="50%"/>
 </div>
 
 ---
 
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishaan2005&theme=react-dark&bg_color=1F222E&hide_border=true" alt="Contribution Graph" />
-</div>
-
-## 🌍 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishaan-bhimajiyani-8269a9255/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ishaan2005)
-[![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Ishaan2005&theme=tokyonight&no-frame=true&margin-w=10" />
 </div>
 
 ---
 
-
-## Dev Quote
+## 📍 Connect With Me
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <a href="mailto:22becf62@nirmauni.ac.in"><img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/ishaan-bhimajiyani-8269a9255/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Ishaan2005"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
 ---
 
-## Current Focus
+## 🎯 Focus Areas
 
-- **Smart Systems**: ESP32, sensor fusion, MQTT to cloud
-- **RISC-V ISA**: Custom instruction simulation, MAC/MOD units
-- **Network ML**: PCAP classification, anomaly detection
-- **Pwnagotchi / Cybersec**: WPA sniffing, Wireshark scripting
-- **Open Source**: Making tools accessible for embedded + AI
+- 🧠 AI-enhanced anomaly detection on network protocols  
+- 🔍 Embedded intelligence with ESP32 & IoT pipelines  
+- 🛠️ System-level design of processors using Verilog  
+- 📈 Smart dashboards with Node-RED, Grafana, and InfluxDB  
+- 🔓 Cybersecurity experiments using Linux tools
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting%20my%20profile!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer&text=Thanks%20for%20visiting%20my%20profile!&fontSize=22&fontColor=ffffff&animation=twinkling" />
 </div>
