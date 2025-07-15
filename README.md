@@ -10,11 +10,11 @@
 
 I'm an **Electronics and Communication Engineering** undergrad with a **minor in Data Science** at Nirma University. I actively work on projects in **VLSI**, **embedded systems**, **networking**, and **machine learning**—with a strong focus on hands-on implementation and real-world applications.
 
-- 🛠️ **Projects**: RISC-V Processor, ESP32 Smart Plant Monitor, Pwnagotchi Network Analysis, Wireshark Automation
-- 🌐 **Networking**: Hands-on with VLANs, Cisco IOS, DHCP, Wireshark, and packet capture
-- 🤖 **ML/DS**: Applied Random Forests and Isolation Forests to PCAP data for anomaly detection
-- 💡 **VLSI**: Single-cycle RISC-V processor design with OpenLane GDS generation
-- 🐧 **Tools & OS**: Skilled with Linux, RHEL, Git, VS Code, and Open-source toolchains
+- 🛠️ **Projects**: RISC-V Processor, ESP32 Smart Plant Monitor, Pwnagotchi Network Analysis, Wireshark Automation  
+- 🌐 **Networking**: Hands-on with VLANs, Cisco IOS, DHCP, Wireshark, and packet capture  
+- 🤖 **ML/DS**: Applied Random Forests and Isolation Forests to PCAP data for anomaly detection  
+- 💡 **VLSI**: Single-cycle RISC-V processor design with OpenLane GDS generation  
+- 🐧 **Tools & OS**: Skilled with Linux, RHEL, Git, VS Code, and Open-source toolchains  
 
 ---
 
@@ -57,41 +57,40 @@ I'm an **Electronics and Communication Engineering** undergrad with a **minor in
 ![Quartus](https://img.shields.io/badge/Quartus-007ACC?style=for-the-badge)
 ![OpenLane](https://img.shields.io/badge/OpenLane-FF9A00?style=for-the-badge)
 
----
 
-## 📜 Certifications
-
-- 📘 **Machine Learning Specialization** – Andrew Ng (Stanford via Coursera)
-- 🎓 **CS50x: Introduction to Computer Science** – HarvardX (edX)
-
----
-
-## 📈 GitHub Stats
+## 📊 GitHub Stats & Analytics
 
 <div align="center">
- 
-  <img src="https://streak-stats.demolab.com/?user=yourGitHubUsername&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Ishaan2005&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourGitHubUsername&custom_title=Ishaan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishaan2005&custom_title=Ishaan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
   <br>
 
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourGitHubUsername&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan2005&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
       </td>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yourGitHubUsername&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishaan2005&theme=highcontrast&hide_border=true" alt="Repos Per Language">
       </td>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yourGitHubUsername&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ishaan2005&theme=highcontrast&hide_border=true" alt="Most Commit Language">
       </td>
     </tr>
   </table>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=yourGitHubUsername&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Ishaan's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ishaan2005&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Ishaan's GitHub stats">
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishaan2005&theme=highcontrast&hide_border=true" alt="Profile Details">
+</div>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourGitHubUsername&theme=highcontrast&hide_border=true" alt="Profile Details">
+---
+
+## 💡 Random Dev Wisdom
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
 ---
@@ -100,8 +99,8 @@ I'm an **Electronics and Communication Engineering** undergrad with a **minor in
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishaan-bhimajiyani)
-[![Email](https://img.shields.io/badge/Email-2bber662@nirmauni.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2bber662@nirmauni.ac.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishaan-bhimajiyani-8269a9255/)
+[![Email](https://img.shields.io/badge/Email-22bec052@nirmauni.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2bber662@nirmauni.ac.in)
 
 </div>
 
