@@ -36,13 +36,44 @@
 
 ---
 
+## 🛠️ Toolbox
+
+### 🖥️ Languages
+Python • C • Verilog • SQL • Bash
+
+### 🔌 Embedded Systems & Protocols
+ESP32 • MQTT • Wireshark • Node-RED • UART • MODBUS • Raspberry Pi
+
+### 📊 Data Tools
+Pandas • NumPy • Matplotlib • Scikit-learn • MongoDB • Grafana • InfluxDB
+
+### ⚙️ EDA & Simulation
+ModelSim • Quartus Prime • HDL • FPGA • RISC-V
+
+---
+
+## 💻 Frontend Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,react,ts,js,jquery,html,css" />
+</p>
+
+---
+
 ## 📊 GitHub Analytics
 
-### 📈 Activity Overview (Past Year)
+### ⚡ 30-Day Activity Snapshot
 
-![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ishaan2005&theme=react-dark&bg_color=1F222E&hide_border=true)
+- 🔥 23 Contributions (Last 30 Days)
+- 🟧 23 Commits (+23 vs last month)
+- 🧵 0 Pull Requests Opened
+- 🐞 0 Issues Opened or Closed
 
-### 📊 Stats & Contributions
+---
+
+## 🧩 GitHub Activity Breakdown
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishaan2005&theme=react-dark&bg_color=1F222E&hide_border=true" />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ishaan2005&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
@@ -57,15 +88,6 @@
 
 ---
 
-## 🧩 GitHub Activity Breakdown
-
-<!-- Replace with your GitHub Insights card if using external data like metrics.lecoq.io -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishaan2005&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ishaan2005&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishaan2005&theme=github_dark" />
-
----
-
 ## 🏆 Achievements
 
 <div align="center">
@@ -74,33 +96,16 @@
 
 ---
 
-## 🛠️ Toolbox
+## 📌 GitHub Insights
 
-### Languages  
-Python, C, Verilog, SQL, Bash
-
-### Embedded Systems & Protocols  
-ESP32, MQTT, Wireshark, Node-RED, Arduino, UART, MODBUS
-
-### Data Tools  
-Pandas, NumPy, Matplotlib, Scikit-learn, MongoDB, Grafana, InfluxDB
-
-### EDA & Simulation  
-ModelSim, Quartus Prime, RISC-V, HDL, FPGA
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishaan2005&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ishaan2005&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishaan2005&theme=github_dark" />
 
 ---
 
-## 📌 Tech Stack Icons (Frontend Style Showcase Example)
+## 🎧 Now Playing
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,arduino,verilog,linux,mysql,bash,vscode,raspberrypi,githubactions" />
-</p>
-
----
-
-## 🎧 Now Playing (Spotify)
-
-> 💡 You need [GitHub Readme Spotify](https://github.com/kittinan/spotify-github-profile) for this
-
-```markdown
+<!-- Replace YOUR_SPOTIFY_ID with your actual Spotify ID -->
 [![Spotify](https://novatorem-ishaan2005.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+
