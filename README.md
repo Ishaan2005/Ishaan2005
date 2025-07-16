@@ -38,8 +38,6 @@
 </div>
 
 
-### GIFs, Memes, and Jokes
-
 <details>
 <summary>GIFs, Memes, and Jokes</summary>
 <div align="center">
@@ -74,11 +72,9 @@
 
 
 </br>
-<details>
   <h2 align="center">Enjoy the Game!</h2>
   <img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="Dino Game" />
   <br />
-</details>
 
 
 ## 🌐 Connect With Me
