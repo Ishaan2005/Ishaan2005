@@ -83,13 +83,11 @@ I'm an **Electronics and Communication Engineering** undergrad with a **minor in
     </tr>
   </table>
 </div>
-<details>
   <img src="https://myreadme.vercel.app/api/embed/Ishaan2005?panels=userstatistics,toprepositories,toplanguages,commitgraph">
 
   <img src="https://github-readme-bento.vercel.app/stats/Ishaan2005?theme=dark" alt = "Ishaan2005's GitHub Stats">
 
   <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Ishaan2005" alt="Advanced GitHub Stats for Ishaan2005" width="400">
-</details>
 
 
 
