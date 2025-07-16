@@ -37,7 +37,16 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishaan2005&theme=highcontrast&hide_border=true">
 </div>
 
----
+
+</br>
+<details>
+  <summary>Wanna Play a Game?</summary>
+
+  <h2 align="center">Enjoy the Game!</h2>
+  <img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="Dino Game" />
+  <br />
+</details>
+
 
 ## 🌐 Connect With Me
 
