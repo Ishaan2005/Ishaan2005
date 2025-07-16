@@ -38,10 +38,43 @@
 </div>
 
 
+### GIFs, Memes, and Jokes
+
+<details>
+<summary>GIFs, Memes, and Jokes</summary>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://programming-joke-card.jayvishaalj.vercel.app/api" />
+      </td>
+      <td>
+        <img src="https://programming-joke-card.jayvishaalj.vercel.app/api" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/docker-pull-ubuntu.gif" />
+      </td>
+      <td>
+        <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/linus-tech.gif" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/feature-tree.gif" />
+      </td>
+      <td>
+        <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/do-not-run-python-python-computer.gif" />
+      </td>
+    </tr>
+  </table>
+</div>
+</details>
+
+
 </br>
 <details>
-  <summary>Wanna Play a Game?</summary>
-
   <h2 align="center">Enjoy the Game!</h2>
   <img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="Dino Game" />
   <br />
