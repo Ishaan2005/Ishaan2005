@@ -64,6 +64,7 @@
 </div>
 
 ---
+⭐️ From [KenanGain](https://github.com/KenanGain) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=65" alt="Footer" />
