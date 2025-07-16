@@ -1,25 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Ishaan+%F0%9F%91%8B;Engineering+Student+%7C+VLSI+%7C+ML+%7C+Networks+Enthusiast;Let's+Build+Something+Cool!" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ishaan2005&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Ishaan2005?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Ishaan2005?label=Stars&style=social" alt="GitHub Stars" />
-</div>
-
-<details>
-  <summary style="font-size: 1.17em; font-weight: bold;">
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
-  </summary>
-  
-  <img src="https://myreadme.vercel.app/api/embed/Ishaan2005?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Ishaan2005's GitHub Stats">
-  <img src="https://github-readme-bento.vercel.app/stats/Ishaan2005?theme=dark" alt="Ishaan2005's GitHub Stats">
-  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Ishaan2005" alt="Advanced GitHub Stats for Ishaan2005" width="400">
-</details>
-
-
-
 ## 🚀 GitHub Stats & Contributions
 
 <div align="center">
@@ -41,6 +19,18 @@
     </tr>
   </table>
 </div>
+
+<details>
+  <summary style="font-size: 1.17em; font-weight: bold;">
+    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
+  </summary>
+  
+  <img src="https://myreadme.vercel.app/api/embed/Ishaan2005?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Ishaan2005's GitHub Stats">
+
+  <img src="https://github-readme-bento.vercel.app/stats/Ishaan2005?theme=dark" alt="Ishaan2005's GitHub Stats">
+
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Ishaan2005" alt="Advanced GitHub Stats for Ishaan2005" width="400">
+</details>
 
 
 ![Alt](https://repobeats.axiom.co/api/embed/ed1976043cc94cc87a4f6a1e55837496635c4a1a.svg "Repobeats analytics image")
