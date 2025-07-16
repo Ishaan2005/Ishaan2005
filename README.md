@@ -8,7 +8,12 @@
   <img src="https://img.shields.io/github/stars/Ishaan2005?label=Stars&style=social" alt="GitHub Stars" />
 </div>
 
----
+<h2>📈 Star History Chart</h2>
+
+<a href="https://star-history.com/#Ishaan2005/Ishaan2005&Date">
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Ishaan2005/Ishaan2005&type=Date&theme=dark" />
+</a>
+
 
 ## 🚀 GitHub Stats & Contributions
 
