@@ -88,9 +88,9 @@ I'm an **Electronics and Communication Engineering** undergrad with a **minor in
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
   </summary>
   
-  <img src="https://myreadme.vercel.app/api/embed/Ishaan2005?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Ishaan2005's GitHub Stats">
+  <img src="https://myreadme.vercel.app/api/embed/Ishaan2005?panels=userstatistics,toprepositories,toplanguages,commitgraph">
 
-  <img src="https://github-readme-bento.vercel.app/stats/Ishaan2005?theme=dark">
+  <img src="https://github-readme-bento.vercel.app/stats/Ishaan2005?theme=dark" alt = "Ishaan2005's GitHub Stats">
 
   <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Ishaan2005" alt="Advanced GitHub Stats for Ishaan2005" width="400">
 </details>
