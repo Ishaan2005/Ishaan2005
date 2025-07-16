@@ -8,11 +8,16 @@
   <img src="https://img.shields.io/github/stars/Ishaan2005?label=Stars&style=social" alt="GitHub Stars" />
 </div>
 
-<h2>📈 Star History Chart</h2>
+<details>
+  <summary style="font-size: 1.17em; font-weight: bold;">
+    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
+  </summary>
+  
+  <img src="https://myreadme.vercel.app/api/embed/Ishaan2005?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Ishaan2005's GitHub Stats">
+  <img src="https://github-readme-bento.vercel.app/stats/Ishaan2005?theme=dark" alt="Ishaan2005's GitHub Stats">
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Ishaan2005" alt="Advanced GitHub Stats for Ishaan2005" width="400">
+</details>
 
-<a href="https://star-history.com/#Ishaan2005/Ishaan2005&Date">
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Ishaan2005/Ishaan2005&type=Date&theme=dark" />
-</a>
 
 
 ## 🚀 GitHub Stats & Contributions
