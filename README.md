@@ -104,31 +104,24 @@ I'm an **Electronics and Communication Engineering** undergrad with a **minor in
   <table>
     <tr>
       <td>
-        <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" alt="Coding Frustration" width="250"/>
+        <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" alt="When the code finally works" width="300"/>
       </td>
       <td>
-        <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" alt="Typing Fast" width="250"/>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Code Review Panic" width="250"/>
-      </td>
-      <td>
-        <img src="https://media.giphy.com/media/hV82ixLVj3nke/giphy.gif" alt="Debugging Victory" width="250"/>
+        <img src="https://media.giphy.com/media/YTbZzCkRQCEJa/giphy.gif" alt="Fixing one bug and getting ten" width="300"/>
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" alt="Deploy to Production" width="250"/>
+        <img src="https://media.giphy.com/media/26gslXt7xQ7F9zTsk/giphy.gif" alt="Deploying to production on Friday" width="300"/>
       </td>
       <td>
-        <img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" alt="404 Not Found" width="250"/>
+        <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" alt="It worked on my machine" width="300"/>
       </td>
     </tr>
   </table>
 </div>
 </details>
+
 
 
 
