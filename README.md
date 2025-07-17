@@ -7,8 +7,7 @@ I'm an **ECE undergrad** with a **Data Science minor** at *Nirma University*, dr
 
 ---
 
-## 🚀 Projects  
-- **RISC-V CPU Design**  
+## 🚀 Projects   
 - **ESP32 IoT Plant Monitor**  
 - **Pwnagotchi Packet Sniffer**  
 - **Wireshark Automation Tools**  
@@ -72,7 +71,6 @@ I'm an **ECE undergrad** with a **Data Science minor** at *Nirma University*, dr
 ## 🚀 GitHub Stats & Contributions
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ishaan2005&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishaan2005&custom_title=Ishaan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area_color=000000&title_color=00FF00&area=true" alt="GitHub Activity Graph" />
   <br>
