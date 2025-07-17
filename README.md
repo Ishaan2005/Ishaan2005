@@ -161,3 +161,14 @@ I'm an **Electronics and Communication Engineering** undergrad with a **minor in
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=65" alt="Footer" />
 </div>
+
+
+<div align="center">
+  <h3>🟡 GitHub Commit Game: Pac-Man Mode 🟡</h3>
+  <a href="https://github.com/Ishaan2005">
+    <img src="https://github.com/luckydog860/github-pacman/raw/main/pacman.svg" alt="GitHub Pacman" />
+  </a>
+  <br />
+  <sub><i>Watch your contribution graph get eaten 🟨</i></sub>
+</div>
+
