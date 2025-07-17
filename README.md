@@ -4,37 +4,27 @@
 
 ---
 
-## About Me
+About Me
+"Turning complex systems into working code with precision and curiosity."
 
-> *"Turning complex systems into working code with precision and curiosity."*
+I'm an ECE undergrad with a Data Science minor at Nirma University, passionate about VLSI, embedded systems, networking, and machine learning. I focus on real-world, hands-on implementations.
 
-I'm an **Electronics and Communication Engineering** undergrad with a **minor in Data Science** at Nirma University. I actively work on projects in **VLSI**, **embedded systems**, **networking**, and **machine learning**—with a strong focus on hands-on implementation and real-world applications.
+Projects: RISC-V CPU, ESP32 IoT Monitor, Pwnagotchi Sniffer, Wireshark Automation
 
-- **Projects**: RISC-V Processor, ESP32 Smart Plant Monitor, Pwnagotchi Network Analysis, Wireshark Automation  
-- **Networking**: Hands-on with VLANs, Cisco IOS, DHCP, Wireshark, and packet capture  
-- **ML/DS**: Applied Random Forests and Isolation Forests to PCAP data for anomaly detection  
-- **VLSI**: Single-cycle RISC-V processor design with OpenLane GDS generation  
-- **Tools & OS**: Skilled with Linux, RHEL, Git, VS Code, and Open-source toolchains  
+Skills: VLANs, Cisco IOS, PCAP parsing, ML, OpenLane VLSI
 
----
+Tools: Linux, Git, VS Code, Graphana, MQTT, Arduino, Quartus, Modelsim
 
-## Projects Snapshot
+Projects Snapshot:
+Network Anomaly Detection – Parsed PCAPs, applied ML for intrusion detection
 
-- **Network Protocol Classification & Anomaly Detection**  
-  PCAP parsing with Scikit-learn, trained ML models to detect anomalies.
+Pwnagotchi Sniffer – Captured WPA handshakes and Wireshark analysis
 
-- **Pwnagotchi Packet Sniffer & Wireshark Automation**  
-  Automated WPA handshake capture, custom Wireshark parsing.
+Built Basic Combinational Verilog files, testbenches and GDS files using OpenLane
 
-- **RISC-V Single Cycle Processor Design**  
-  Designed 5-stage modules: ALU, control, memory; GDS generated using OpenLane.
+ESP32 Plant Monitor – MQTT dashboard for temp, light & soil sensors
 
-- **ESP32 Plant Monitoring System**  
-  MQTT-based smart dashboard to monitor temperature, light, and humidity.
-
-- **IP Calculator in C**  
-  CLI tool to convert IP/subnet to CIDR and binary masks.
-
+IP Calculator (C) – CLI tool for CIDR, subnet, and binary mask conversions
 ---
 ### 🐍 GitHub Contribution Snake
 
