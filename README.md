@@ -2,25 +2,44 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Ishaan+%F0%9F%91%8B;Engineering+Student+%7C+Network+%2B+VLSI+Projects;Pwnagotchi%2C+Verilog%2C+ESP32%2C+and+ML+Researcher!" alt="Typing SVG" />
 </div>
 
+## 👨‍💻 About Me  
+I'm an **ECE undergrad** with a **Data Science minor** at *Nirma University*, driven by a passion for **VLSI**, **embedded systems**, **networking**, and **machine learning**. I focus on **real-world, hands-on implementations** that bridge hardware and software.
+
 ---
-I'm an ECE undergrad with a Data Science minor at Nirma University, passionate about VLSI, embedded systems, networking, and machine learning. I focus on real-world, hands-on implementations.
 
-Projects: RISC-V CPU, ESP32 IoT Monitor, Pwnagotchi Sniffer, Wireshark Automation
+## 🚀 Projects  
+- **RISC-V CPU Design**  
+- **ESP32 IoT Plant Monitor**  
+- **Pwnagotchi Packet Sniffer**  
+- **Wireshark Automation Tools**  
 
-Skills: VLANs, Cisco IOS, PCAP parsing, ML, OpenLane VLSI
+---
 
-Tools: Linux, Git, VS Code, Graphana, MQTT, Arduino, Quartus, Modelsim
+## Skills & Tools  
+**Networking**: VLANs, Cisco IOS, PCAP Parsing  
+**ML/DS**: Random Forest, Isolation Forest, Scikit-learn  
+**VLSI**: Verilog, OpenLane, Quartus, ModelSim  
+**Embedded & IoT**: Arduino, ESP32, MQTT, Blynk  
+**Tools**: Linux, Git, VS Code, Grafana
 
-Projects Snapshot:
-Network Anomaly Detection – Parsed PCAPs, applied ML for intrusion detection
+---
 
-Pwnagotchi Sniffer – Captured WPA handshakes and Wireshark analysis
+## 📂 Project Highlights  
+- **Network Anomaly Detection**  
+  Parsed PCAPs and applied ML (RF, Isolation Forest) for intrusion detection.  
 
-Built Basic Combinational Verilog files, testbenches and GDS files using OpenLane
+- **Pwnagotchi WPA Sniffer**  
+  Captured WPA handshakes and automated Wireshark analysis.  
 
-ESP32 Plant Monitor – MQTT dashboard for temp, light & soil sensors
+- **VLSI Design with OpenLane**  
+  Designed basic combinational Verilog modules, testbenches, and generated GDS files.
 
-IP Calculator (C) – CLI tool for CIDR, subnet, and binary mask conversions
+- **ESP32 Plant Monitor**  
+  MQTT-based dashboard to track temperature, light, and soil moisture.  
+
+- **IP Calculator in C**  
+  CLI tool to convert IP/subnet to CIDR and binary mask formats.
+
 ---
 ### 🐍 GitHub Contribution Snake
 
