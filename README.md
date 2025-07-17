@@ -36,7 +36,9 @@ I'm an **Electronics and Communication Engineering** undergrad with a **minor in
   CLI tool to convert IP/subnet to CIDR and binary masks.
 
 ---
+### 🐍 GitHub Contribution Snake
 
+![GitHub Snake](https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/github-contribution-grid-snake.svg)
 
 ## 💻 Tech Stack
 
@@ -162,7 +164,3 @@ I'm an **Electronics and Communication Engineering** undergrad with a **minor in
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=65" alt="Footer" />
 </div>
 
-
-### 🐍 GitHub Contribution Snake
-
-![GitHub Snake](https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/github-contribution-grid-snake.svg)
