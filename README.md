@@ -139,18 +139,50 @@ I'm an **ECE undergrad** with a **Data Science minor** at *Nirma University*, dr
 ## 🌐 Connect With Me
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linkedin,reddit,github,instagram,discord" />
+  <a href="https://www.linkedin.com/in/ishaan-bhimajiyani-8269a9255/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://www.reddit.com/user/Jumpy_Version_6857/">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111589.png" height="40" alt="Reddit" />
+  </a>
+  <a href="https://github.com/Ishaan2005">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+  <a href="https://www.instagram.com/ishaan._.1105/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+  <a href="https://discord.com/users/ishaan_63793">
+    <img src="https://skillicons.dev/icons?i=discord" height="40" />
+  </a>
 </div>
+
+<br>
 
 <table align="center">
   <tr>
-    <td><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> <br> <sub><a href="https://www.linkedin.com/in/ishaan-bhimajiyani-8269a9255/">LinkedIn</a></sub></td>
-    <td><img src="https://skillicons.dev/icons?i=linkedin,reddit,github,instagram,discord" /><br> <sub><a href="https://www.reddit.com/user/Jumpy_Version_6857/">Reddit</a></sub></td>
-    <td><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /> <br> <sub><a href="https://github.com/Ishaan2005">GitHub</a></sub></td>
-    <td><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> <br> <sub><a href="https://www.instagram.com/ishaan._.1105/">Instagram</a></sub></td>
-    <td><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> <br> <sub>ishaan_63793</sub></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><br>
+      <sub><a href="https://www.linkedin.com/in/ishaan-bhimajiyani-8269a9255/">LinkedIn</a></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /><br>
+      <sub><a href="https://www.reddit.com/user/Jumpy_Version_6857/">Reddit</a></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /><br>
+      <sub><a href="https://github.com/Ishaan2005">GitHub</a></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /><br>
+      <sub><a href="https://www.instagram.com/ishaan._.1105/">Instagram</a></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /><br>
+      <sub>ishaan_63793</sub>
+    </td>
   </tr>
 </table>
+
 
 ---
 
