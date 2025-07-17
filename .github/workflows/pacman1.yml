@@ -1,0 +1,18 @@
+name: Generate Pacman SVG
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # runs every day at midnight UTC
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/pacman@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          user: Ishaan2005
+          gif: false # set to true if you want to generate GIF instead of SVG
