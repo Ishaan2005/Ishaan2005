@@ -3,10 +3,6 @@
 </div>
 
 ---
-
-About Me
-"Turning complex systems into working code with precision and curiosity."
-
 I'm an ECE undergrad with a Data Science minor at Nirma University, passionate about VLSI, embedded systems, networking, and machine learning. I focus on real-world, hands-on implementations.
 
 Projects: RISC-V CPU, ESP32 IoT Monitor, Pwnagotchi Sniffer, Wireshark Automation
