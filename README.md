@@ -5,14 +5,6 @@
 ## 👨‍💻 About Me  
 I'm an **ECE undergrad** with a **Data Science minor** at *Nirma University*, driven by a passion for **VLSI**, **embedded systems**, **networking**, and **machine learning**. I focus on **real-world, hands-on implementations** that bridge hardware and software.
 
----
-
-## 🚀 Projects   
-- **ESP32 IoT Plant Monitor**  
-- **Pwnagotchi Packet Sniffer**  
-- **Wireshark Automation Tools**  
-
----
 
 ## Skills & Tools  
 **Networking**: VLANs, Cisco IOS, PCAP Parsing  
@@ -21,25 +13,6 @@ I'm an **ECE undergrad** with a **Data Science minor** at *Nirma University*, dr
 **Embedded & IoT**: Arduino, ESP32, MQTT, Blynk  
 **Tools**: Linux, Git, VS Code, Grafana
 
----
-
-## 📂 Project Highlights  
-- **Network Anomaly Detection**  
-  Parsed PCAPs and applied ML (RF, Isolation Forest) for intrusion detection.  
-
-- **Pwnagotchi WPA Sniffer**  
-  Captured WPA handshakes and automated Wireshark analysis.  
-
-- **VLSI Design with OpenLane**  
-  Designed basic combinational Verilog modules, testbenches, and generated GDS files.
-
-- **ESP32 Plant Monitor**  
-  MQTT-based dashboard to track temperature, light, and soil moisture.  
-
-- **IP Calculator in C**  
-  CLI tool to convert IP/subnet to CIDR and binary mask formats.
-
----
 ### 🐍 GitHub Contribution Snake
 
 ![GitHub Snake](https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/github-contribution-grid-snake.svg)
