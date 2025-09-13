@@ -102,10 +102,11 @@ I'm an **ECE undergrad** with a **Data Science minor** at *Nirma University*, dr
 <h2 align="center">Enjoy the Game!</h2>
 <p align="center">
   <a href="https://elgoog.im/t-rex/">
-    <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/Assets/dino.gif" alt="Dino Game" />
+    <img src="https://i.imgur.com/8Km9tLL.gif" alt="Dino Game" />
   </a>
 </p>
 <br />
+
 
 
 
