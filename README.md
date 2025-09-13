@@ -98,13 +98,10 @@ I'm an **ECE undergrad** with a **Data Science minor** at *Nirma University*, dr
   </table>
 </div>
 
-
-
-
-
 </br>
   <h2 align="center">Enjoy the Game!</h2>
-  <img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="Dino Game" />
+[![Play Dino Game](https://github.com/saadeghi/saadeghi/blob/master/Assets/dino.gif)](https://elgoog.im/t-rex/)
+Click the image to play the real Dino game!
   <br />
 
 
@@ -147,6 +144,12 @@ I'm an **ECE undergrad** with a **Data Science minor** at *Nirma University*, dr
     <td align="center">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /><br>
       <sub><a href="https://www.instagram.com/ishaan._.1105/">Instagram</a></sub>
+    </td>
+        <td align="center">
+      <a href="https://discord.com/users/ishaan_63793">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /><br>
+        <sub>Discord</sub>
+      </a>
     </td>
   </tr>
 </table>
