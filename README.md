@@ -76,7 +76,6 @@ I'm an **ECE undergrad** with a **Data Science minor** at *Nirma University*, dr
 </div>
 
 
-<details>
 <summary>GIFs, Memes, and Jokes</summary>
 <div align="center">
   <table>
@@ -98,7 +97,7 @@ I'm an **ECE undergrad** with a **Data Science minor** at *Nirma University*, dr
     </tr>
   </table>
 </div>
-</details>
+
 
 
 
