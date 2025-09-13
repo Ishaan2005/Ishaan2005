@@ -148,10 +148,6 @@ I'm an **ECE undergrad** with a **Data Science minor** at *Nirma University*, dr
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /><br>
       <sub><a href="https://www.instagram.com/ishaan._.1105/">Instagram</a></sub>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /><br>
-      <sub>ishaan_63793</sub>
-    </td>
   </tr>
 </table>
 
