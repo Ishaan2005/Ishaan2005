@@ -76,7 +76,7 @@ I'm an **ECE undergrad** with a **Data Science minor** at *Nirma University*, dr
 </div>
 
 
-<summary>GIFs, Memes, and Jokes</summary>
+
 <div align="center">
   <table>
     <tr>
@@ -99,10 +99,14 @@ I'm an **ECE undergrad** with a **Data Science minor** at *Nirma University*, dr
 </div>
 
 </br>
-  <h2 align="center">Enjoy the Game!</h2>
-[![Play Dino Game](https://github.com/saadeghi/saadeghi/blob/master/Assets/dino.gif)](https://elgoog.im/t-rex/)
-Click the image to play the real Dino game!
-  <br />
+<h2 align="center">Enjoy the Game!</h2>
+<p align="center">
+  <a href="https://elgoog.im/t-rex/">
+    <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/Assets/dino.gif" alt="Dino Game" />
+  </a>
+</p>
+<br />
+
 
 
 ## 🌐 Connect With Me
