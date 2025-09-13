@@ -112,9 +112,6 @@ I'm an **ECE undergrad** with a **Data Science minor** at *Nirma University*, dr
 
 
 ## 🌐 Connect With Me
-
-## 🌐 Connect With Me
-
 <div align="center">
   <table>
     <tr>
