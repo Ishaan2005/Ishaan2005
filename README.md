@@ -66,7 +66,7 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
   </table>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan2005&theme=dark&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishaan2005&theme=dark" alt="GitHub Streak Stats" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ishaan2005&show_icons=true&theme=dark" alt="Ishaan2005's GitHub Stats" />
 
