@@ -70,9 +70,7 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 ![Alt](https://repobeats.axiom.co/api/embed/ed1976043cc94cc87a4f6a1e55837496635c4a1a.svg "Repobeats analytics image")
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishaan2005&theme=dark" alt="GitHub Streak Stats" />
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishaan2005&theme=highcontrast&hide_border=true">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishaan2005&theme=highcontrast&hide_border=true">
 </div>
 
 ---
