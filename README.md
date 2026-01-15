@@ -66,9 +66,9 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
   </table>
 </div>
 
-<img src="https://myreadme.vercel.app/api/embed/Ishaan2005?panels=userstatistics,toprepositories,toplanguages,commitgraph">
+<img src="https://myreadme-stats.vercel.app/api/embed/Ishaan2005?panels=userstatistics,toprepositories,toplanguages,commitgraph">
 
-<img src="https://github-readme-bento.vercel.app/stats/Ishaan2005?theme=dark" alt="Ishaan2005's GitHub Stats">
+<img src="https://github-readme-bento.vercel.app/api/Ishaan2005?theme=dark" alt="Ishaan2005's GitHub Stats">
 
 <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Ishaan2005" alt="Advanced GitHub Stats for Ishaan2005" width="400">
 
