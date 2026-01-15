@@ -61,11 +61,15 @@ I'm an **ECE undergrad** with a **Data Science minor** at *Nirma University*, dr
   </table>
 </div>
 
-<img src="https://myreadme.vercel.app/api/embed/Ishaan2005?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="MyReadme Stats">
+- <img src="https://myreadme.vercel.app/api/embed/Ishaan2005?panels=userstatistics,toprepositories,toplanguages,commitgraph">
++ <img src="https://myreadme-stats.vercel.app/api/embed/Ishaan2005?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="MyReadme Stats">
 
-<img src="https://github-readme-bento.vercel.app/api/Ishaan2005?theme=dark" alt="Ishaan2005's Bento Stats">
+- <img src="https://github-readme-bento.vercel.app/stats/Ishaan2005?theme=dark" alt = "Ishaan2005's GitHub Stats">
++ <img src="https://github-readme-bento.vercel.app/api/Ishaan2005?theme=dark" alt="Ishaan2005's Bento Stats">
 
-<img src="https://stats.quine.sh/Ishaan2005/github?theme=dark" alt="Advanced GitHub Stats for Ishaan2005" width="400">
+- <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Ishaan2005" alt="Advanced GitHub Stats for Ishaan2005" width="400">
++ <img src="https://stats.quine.sh/Ishaan2005/github?theme=dark" alt="Advanced GitHub Stats for Ishaan2005" width="400">
+
 
 ![Alt](https://repobeats.axiom.co/api/embed/ed1976043cc94cc87a4f6a1e55837496635c4a1a.svg "Repobeats analytics image")
 
