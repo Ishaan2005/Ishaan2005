@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Ishaan+%F0%9F%91%8B;Engineering+Student+%7C+Network+%2B+VLSI+Projects;Pwnagotchi%2C+Verilog%2C+ESP32%2C+and+ML+Researcher!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Ishaan+%F0%9F%91%8B;Engineering+Student+%7C+Network+%2B+VLSI+Projects;Pwnagotchi%2C+Verilog%2C+ESP32%2C+and+ML+Researcher!" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 About Me  
@@ -15,7 +15,8 @@ I'm an **ECE undergrad** with a **Data Science minor** at *Nirma University*, dr
 
 ### 🐍 GitHub Contribution Snake
 
-![GitHub Snake](https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake](https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ## 💻 Tech Stack
 
@@ -37,9 +38,7 @@ I'm an **ECE undergrad** with a **Data Science minor** at *Nirma University*, dr
 ![Quartus](https://img.shields.io/badge/Quartus-007ACC?style=for-the-badge)
 ![OpenLane](https://img.shields.io/badge/OpenLane-FF9A00?style=for-the-badge)
 
-
-
-
+---
 
 ## 🚀 GitHub Stats & Contributions
 
@@ -61,21 +60,21 @@ I'm an **ECE undergrad** with a **Data Science minor** at *Nirma University*, dr
     </tr>
   </table>
 </div>
-  <img src="https://myreadme.vercel.app/api/embed/Ishaan2005?panels=userstatistics,toprepositories,toplanguages,commitgraph">
 
-  <img src="https://github-readme-bento.vercel.app/stats/Ishaan2005?theme=dark" alt = "Ishaan2005's GitHub Stats">
+<img src="https://myreadme.vercel.app/api/embed/Ishaan2005?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="MyReadme Stats">
 
-  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Ishaan2005" alt="Advanced GitHub Stats for Ishaan2005" width="400">
+<img src="https://github-readme-bento.vercel.app/api/Ishaan2005?theme=dark" alt="Ishaan2005's Bento Stats">
 
-
+<img src="https://stats.quine.sh/Ishaan2005/github?theme=dark" alt="Advanced GitHub Stats for Ishaan2005" width="400">
 
 ![Alt](https://repobeats.axiom.co/api/embed/ed1976043cc94cc87a4f6a1e55837496635c4a1a.svg "Repobeats analytics image")
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ishaan2005&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Ishaan's GitHub stats">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishaan2005&theme=highcontrast&hide_border=true">
 </div>
 
-
+---
 
 <div align="center">
   <table>
@@ -107,9 +106,7 @@ I'm an **ECE undergrad** with a **Data Science minor** at *Nirma University*, dr
 </p>
 <br />
 
-
-
-
+---
 
 ## 🌐 Connect With Me
 <div align="center">
@@ -149,7 +146,6 @@ I'm an **ECE undergrad** with a **Data Science minor** at *Nirma University*, dr
   </table>
 </div>
 
-
 ---
 
 ## 💡 Random Dev Wisdom
@@ -164,4 +160,3 @@ I'm an **ECE undergrad** with a **Data Science minor** at *Nirma University*, dr
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=65" alt="Footer" />
 </div>
-
