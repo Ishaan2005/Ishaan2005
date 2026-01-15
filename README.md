@@ -49,7 +49,6 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 ## 🚀 GitHub Stats & Contributions
 
 <div align="center">
-  <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishaan2005&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" alt="Ishaan's GitHub Activity Graph" />
   <br>
   <table>
@@ -72,12 +71,12 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ishaan2005&show_icons=true&theme=highcontrast&hide_border=true&count_private=true" alt="Ishaan Statistics" />
   <br>
-  <img src="https://github-readme-bento.vercel.app/api/Ishaan2005?theme=dark" alt="Ishaan2005's Bento Stats" width="800" />
+  <img src="https://github-readme-bento.vercel.app/api/Ishaan2005?theme=dark" alt="Ishaan2005's Bento Stats" />
 </div>
 
 <div align="center">
-  <img src="https://stats.quine.sh/Ishaan2005/github?theme=dark" alt="Advanced GitHub Stats for Ishaan2005" width="400" />
-  <img src="https://repobeats.axiom.co/api/embed/ed1976043cc94cc87a4f6a1e55837496635c4a1a.svg" alt="Repobeats analytics" width="400" />
+  <img src="https://stats.quine.sh/Ishaan2005/github?theme=dark" alt="Advanced GitHub Stats" width="45%" />
+  <img src="https://repobeats.axiom.co/api/embed/ed1976043cc94cc87a4f6a1e55837496635c4a1a.svg" alt="Repobeats analytics" width="45%" />
 </div>
 
 ---
@@ -99,7 +98,7 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 <h2 align="center">Enjoy the Game!</h2>
 <p align="center">
   <a href="https://elgoog.im/t-rex/">
-    <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" alt="Dino Game" width="600" />
+    <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" alt="Dino Game" />
   </a>
 </p>
 <br />
@@ -111,15 +110,19 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
   <a href="https://www.linkedin.com/in/ishaan-bhimajiyani-8269a9255/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
+  &nbsp;
   <a href="https://www.reddit.com/user/Jumpy_Version_6857/">
     <img src="https://skillicons.dev/icons?i=reddit" height="40" />
   </a>
+  &nbsp;
   <a href="https://github.com/Ishaan2005">
     <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
+  &nbsp;
   <a href="https://www.instagram.com/ishaan._.1105/">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
+  &nbsp;
   <a href="https://discord.com/users/ishaan_63793">
     <img src="https://skillicons.dev/icons?i=discord" height="40" />
   </a>
