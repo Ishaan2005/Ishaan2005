@@ -2,13 +2,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Ishaan+%F0%9F%91%8B;Engineering+Student+%7C+Network+%2B+VLSI+Projects;Pwnagotchi%2C+Verilog%2C+ESP32%2C+and+ML+Researcher!" alt="Typing SVG" />
 </div>
 
+---
+
 ## 👨‍💻 About Me  
 I'm an **ECE undergrad** with a **Data Science minor** at *Nirma University*, driven by a passion for **VLSI**, **embedded systems**, **networking**, and **machine learning**.  
 I focus on **real-world, hands-on implementations** that bridge hardware and software.
 
 ---
 
-## Skills & Tools  
+## 🧠 Skills & Tools  
+
 **Networking**: VLANs, Cisco IOS, PCAP Parsing  
 **ML/DS**: Random Forest, Isolation Forest, Scikit-learn  
 **VLSI**: Verilog, OpenLane, Quartus, ModelSim  
@@ -19,7 +22,9 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 
 ### 🐍 GitHub Contribution Snake
 
-![GitHub Snake](https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+</div>
 
 ---
 
@@ -50,27 +55,32 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 <div align="center">
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishaan2005&custom_title=Ishaan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area_color=000000&title_color=00FF00&area=true" alt="GitHub Activity Graph" />
-  <br>
+  <br><br>
   <table>
     <tr>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishaan2005&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishaan2005&theme=highcontrast&hide_border=true" alt="Repos Per Language" />
       </td>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ishaan2005&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ishaan2005&theme=highcontrast&hide_border=true" alt="Most Commit Language" />
       </td>
     </tr>
   </table>
 </div>
 
-<img src="https://github-readme-bento.vercel.app/stats/Ishaan2005?theme=dark" alt="Ishaan2005's GitHub Stats">
-
-<img src="https://stats.dooboo.io/api/github-stats-advanced?login=Ishaan2005" alt="Advanced GitHub Stats for Ishaan2005" width="400">
-
-![Alt](https://repobeats.axiom.co/api/embed/ed1976043cc94cc87a4f6a1e55837496635c4a1a.svg "Repobeats analytics image")
+<div align="center">
+  <img src="https://github-readme-bento.vercel.app/stats/Ishaan2005?theme=dark" alt="Ishaan2005's GitHub Stats" />
+  <br><br>
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Ishaan2005" alt="Advanced GitHub Stats for Ishaan2005" width="400" />
+</div>
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishaan2005&theme=highcontrast&hide_border=true">
+  <br>
+  <img src="https://repobeats.axiom.co/api/embed/ed1976043cc94cc87a4f6a1e55837496635c4a1a.svg" alt="Repobeats analytics image" />
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishaan2005&theme=highcontrast&hide_border=true" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishaan2005&theme=dark" alt="GitHub Streak Stats" />
 </div>
 
 ---
@@ -79,34 +89,32 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
   <table>
     <tr>
       <td>
-        <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" alt="When the code finally works" width="300"/>
+        <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" alt="When the code finally works" width="300" />
       </td>
       <td>
-        <img src="https://media.giphy.com/media/YTbZzCkRQCEJa/giphy.gif" alt="Fixing one bug and getting ten" width="300"/>
+        <img src="https://media.giphy.com/media/YTbZzCkRQCEJa/giphy.gif" alt="Fixing one bug and getting ten" width="300" />
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://media.giphy.com/media/26gslXt7xQ7F9zTsk/giphy.gif" alt="Deploying to production on Friday" width="300"/>
+        <img src="https://media.giphy.com/media/26gslXt7xQ7F9zTsk/giphy.gif" alt="Deploying to production on Friday" width="300" />
       </td>
       <td>
-        <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" alt="It worked on my machine" width="300"/>
+        <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" alt="It worked on my machine" width="300" />
       </td>
     </tr>
   </table>
 </div>
 
-</br>
+<br>
 
-<h2 align="center">Enjoy the Game!</h2>
+<h2 align="center">🎮 Enjoy the Game!</h2>
 
 <p align="center">
   <a href="https://elgoog.im/t-rex/">
     <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" alt="Dino Game" />
   </a>
 </p>
-
-<br />
 
 ---
 
@@ -160,7 +168,7 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 ---
 
 ⭐️ From [Ishaan Bhimajiyani](https://github.com/Ishaan2005) | Let's innovate together!  
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px" />
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=65" alt="Footer" />
