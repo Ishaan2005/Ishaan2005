@@ -5,18 +5,23 @@
 ## 👨‍💻 About Me  
 I'm an **ECE undergrad** with a **Data Science minor** at *Nirma University*, driven by a passion for **VLSI**, **embedded systems**, **networking**, and **machine learning**. I focus on **real-world, hands-on implementations** that bridge hardware and software.
 
+---
 
-## Skills & Tools  
+## 🧠 Skills & Tools  
 **Networking**: VLANs, Cisco IOS, PCAP Parsing  
 **ML/DS**: Random Forest, Isolation Forest, Scikit-learn  
 **VLSI**: Verilog, OpenLane, Quartus, ModelSim  
 **Embedded & IoT**: Arduino, ESP32, MQTT, Blynk  
 **Tools**: Linux, Git, VS Code, Grafana
 
+---
+
 ### 🐍 GitHub Contribution Snake
 
 ![GitHub Snake](https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![GitHub Snake](https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+---
 
 ## 💻 Tech Stack
 
@@ -61,15 +66,11 @@ I'm an **ECE undergrad** with a **Data Science minor** at *Nirma University*, dr
   </table>
 </div>
 
-- <img src="https://myreadme.vercel.app/api/embed/Ishaan2005?panels=userstatistics,toprepositories,toplanguages,commitgraph">
-+ <img src="https://myreadme-stats.vercel.app/api/embed/Ishaan2005?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="MyReadme Stats">
+<img src="https://myreadme-stats.vercel.app/api/embed/Ishaan2005?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="MyReadme Stats">
 
-- <img src="https://github-readme-bento.vercel.app/stats/Ishaan2005?theme=dark" alt = "Ishaan2005's GitHub Stats">
-+ <img src="https://github-readme-bento.vercel.app/api/Ishaan2005?theme=dark" alt="Ishaan2005's Bento Stats">
+<img src="https://github-readme-bento.vercel.app/api/Ishaan2005?theme=dark" alt="Ishaan2005's Bento Stats">
 
-- <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Ishaan2005" alt="Advanced GitHub Stats for Ishaan2005" width="400">
-+ <img src="https://stats.quine.sh/Ishaan2005/github?theme=dark" alt="Advanced GitHub Stats for Ishaan2005" width="400">
-
+<img src="https://stats.quine.sh/Ishaan2005/github?theme=dark" alt="Advanced GitHub Stats for Ishaan2005" width="400">
 
 ![Alt](https://repobeats.axiom.co/api/embed/ed1976043cc94cc87a4f6a1e55837496635c4a1a.svg "Repobeats analytics image")
 
@@ -159,6 +160,7 @@ I'm an **ECE undergrad** with a **Data Science minor** at *Nirma University*, dr
 </div>
 
 ---
+
 ⭐️ From [Ishaan Bhimajiyani](https://github.com/Ishaan2005) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
 
 <div align="center">
