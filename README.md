@@ -19,7 +19,7 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 
 ### 🐍 GitHub Contribution Snake
 
-![GitHub Snake](https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/github-contribution-grid-snake.svg)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
