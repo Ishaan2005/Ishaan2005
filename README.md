@@ -66,11 +66,16 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
   </table>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ishaan2005&show_icons=true&theme=dark" alt="Ishaan2005's GitHub Stats" />
+<img src="https://myreadme.vercel.app/api/embed/Ishaan2005?panels=userstatistics,toprepositories,toplanguages,commitgraph">
+
+<img src="https://github-readme-bento.vercel.app/stats/Ishaan2005?theme=dark" alt="Ishaan2005's GitHub Stats">
+
+<img src="https://stats.dooboo.io/api/github-stats-advanced?login=Ishaan2005" alt="Advanced GitHub Stats for Ishaan2005" width="400">
 
 ![Alt](https://repobeats.axiom.co/api/embed/ed1976043cc94cc87a4f6a1e55837496635c4a1a.svg "Repobeats analytics image")
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ishaan2005&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Ishaan's GitHub stats">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishaan2005&theme=highcontrast&hide_border=true">
 </div>
 
