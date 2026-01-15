@@ -1,8 +1,6 @@
 <div align="center">
-![GitHub Snake](https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Ishaan+%F0%9F%91%8B;Engineering+Student+%7C+Network+%2B+VLSI+Projects;Pwnagotchi%2C+Verilog%2C+ESP32%2C+and+ML+Researcher!" alt="Typing SVG" />
 </div>
-
----
 
 ## 👨‍💻 About Me  
 I'm an **ECE undergrad** with a **Data Science minor** at *Nirma University*, driven by a passion for **VLSI**, **embedded systems**, **networking**, and **machine learning**.  
@@ -10,8 +8,7 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 
 ---
 
-## 🧠 Skills & Tools  
-
+## Skills & Tools  
 **Networking**: VLANs, Cisco IOS, PCAP Parsing  
 **ML/DS**: Random Forest, Isolation Forest, Scikit-learn  
 **VLSI**: Verilog, OpenLane, Quartus, ModelSim  
@@ -22,9 +19,7 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 
 ### 🐍 GitHub Contribution Snake
 
-<div align="center">
-![GitHub Snake]([https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only))
-</div>
+![GitHub Snake](https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/github-contribution-grid-snake.svg)
 
 ---
 
