@@ -23,7 +23,7 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 ### 🐍 GitHub Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+![Snake Dark](https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 </div>
 
 ---
@@ -80,7 +80,7 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
   <br><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishaan2005&theme=highcontrast&hide_border=true" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishaan2005&theme=dark" alt="GitHub Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishaan2005&theme=dark" alt="GitHub Streak Stats" />
 </div>
 
 ---
