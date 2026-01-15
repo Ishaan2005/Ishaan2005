@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Ishaan+%F0%9F%91%8B;Engineering+Student+%7C+Network+%2B+VLSI+Projects;Pwnagotchi%2C+Verilog%2C+ESP32%2C+and+ML+Researcher!" alt="Typing SVG" />
+![GitHub Snake](https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 </div>
 
 ---
