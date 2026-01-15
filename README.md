@@ -50,7 +50,7 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 
 <div align="center">
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishaan2005&custom_title=Ishaan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area_color=000000&title_color=00FF00&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishaan2005&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" alt="Ishaan's GitHub Activity Graph" />
   <br>
   <table>
     <tr>
@@ -69,17 +69,15 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 
 ---
 
-<img src="https://myreadme-stats.vercel.app/api/embed/Ishaan2005?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="MyReadme Stats" />
-
-<img src="https://github-readme-bento.vercel.app/api/Ishaan2005?theme=dark" alt="Ishaan2005's Bento Stats" />
-
-<img src="https://stats.quine.sh/Ishaan2005/github?theme=dark" alt="Advanced GitHub Stats for Ishaan2005" width="400" />
-
-![Alt](https://repobeats.axiom.co/api/embed/ed1976043cc94cc87a4f6a1e55837496635c4a1a.svg "Repobeats analytics image")
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ishaan2005&show_icons=true&theme=highcontrast&hide_border=true&count_private=true" alt="Ishaan Statistics" />
+  <br>
+  <img src="https://github-readme-bento.vercel.app/api/Ishaan2005?theme=dark" alt="Ishaan2005's Bento Stats" width="800" />
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ishaan2005&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Ishaan's GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishaan2005&theme=highcontrast&hide_border=true" />
+  <img src="https://stats.quine.sh/Ishaan2005/github?theme=dark" alt="Advanced GitHub Stats for Ishaan2005" width="400" />
+  <img src="https://repobeats.axiom.co/api/embed/ed1976043cc94cc87a4f6a1e55837496635c4a1a.svg" alt="Repobeats analytics" width="400" />
 </div>
 
 ---
@@ -87,20 +85,12 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 <div align="center">
   <table>
     <tr>
-      <td>
-        <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" alt="When the code finally works" width="300" />
-      </td>
-      <td>
-        <img src="https://media.giphy.com/media/YTbZzCkRQCEJa/giphy.gif" alt="Fixing one bug and getting ten" width="300" />
-      </td>
+      <td><img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" alt="When the code finally works" width="300" /></td>
+      <td><img src="https://media.giphy.com/media/YTbZzCkRQCEJa/giphy.gif" alt="Fixing one bug and getting ten" width="300" /></td>
     </tr>
     <tr>
-      <td>
-        <img src="https://media.giphy.com/media/26gslXt7xQ7F9zTsk/giphy.gif" alt="Deploying to production on Friday" width="300" />
-      </td>
-      <td>
-        <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" alt="It worked on my machine" width="300" />
-      </td>
+      <td><img src="https://media.giphy.com/media/26gslXt7xQ7F9zTsk/giphy.gif" alt="Deploying to production on Friday" width="300" /></td>
+      <td><img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" alt="It worked on my machine" width="300" /></td>
     </tr>
   </table>
 </div>
@@ -109,7 +99,7 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 <h2 align="center">Enjoy the Game!</h2>
 <p align="center">
   <a href="https://elgoog.im/t-rex/">
-    <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" alt="Dino Game" />
+    <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" alt="Dino Game" width="600" />
   </a>
 </p>
 <br />
@@ -118,40 +108,21 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 
 ## 🌐 Connect With Me
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://www.linkedin.com/in/ishaan-bhimajiyani-8269a9255/">
-          <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-        </a><br>
-        <sub><a href="https://www.linkedin.com/in/ishaan-bhimajiyani-8269a9255/">LinkedIn</a></sub>
-      </td>
-      <td align="center">
-        <a href="https://www.reddit.com/user/Jumpy_Version_6857/">
-          <img src="https://cdn-icons-png.flaticon.com/512/2111/2111589.png" height="40" />
-        </a><br>
-        <sub><a href="https://www.reddit.com/user/Jumpy_Version_6857/">Reddit</a></sub>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Ishaan2005">
-          <img src="https://skillicons.dev/icons?i=github" height="40" />
-        </a><br>
-        <sub><a href="https://github.com/Ishaan2005">GitHub</a></sub>
-      </td>
-      <td align="center">
-        <a href="https://www.instagram.com/ishaan._.1105/">
-          <img src="https://skillicons.dev/icons?i=instagram" height="40" />
-        </a><br>
-        <sub><a href="https://www.instagram.com/ishaan._.1105/">Instagram</a></sub>
-      </td>
-      <td align="center">
-        <a href="https://discord.com/users/ishaan_63793">
-          <img src="https://skillicons.dev/icons?i=discord" height="40" />
-        </a><br>
-        <sub><a href="https://discord.com/users/ishaan_63793">Discord</a></sub>
-      </td>
-    </tr>
-  </table>
+  <a href="https://www.linkedin.com/in/ishaan-bhimajiyani-8269a9255/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://www.reddit.com/user/Jumpy_Version_6857/">
+    <img src="https://skillicons.dev/icons?i=reddit" height="40" />
+  </a>
+  <a href="https://github.com/Ishaan2005">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+  <a href="https://www.instagram.com/ishaan._.1105/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+  <a href="https://discord.com/users/ishaan_63793">
+    <img src="https://skillicons.dev/icons?i=discord" height="40" />
+  </a>
 </div>
 
 ---
