@@ -3,7 +3,8 @@
 </div>
 
 ## 👨‍💻 About Me  
-I'm an **ECE undergrad** with a **Data Science minor** at *Nirma University*, driven by a passion for **VLSI**, **embedded systems**, **networking**, and **machine learning**. I focus on **real-world, hands-on implementations** that bridge hardware and software.
+I'm an **ECE undergrad** with a **Data Science minor** at *Nirma University*, driven by a passion for **VLSI**, **embedded systems**, **networking**, and **machine learning**.  
+I focus on **real-world, hands-on implementations** that bridge hardware and software.
 
 ---
 
@@ -18,8 +19,8 @@ I'm an **ECE undergrad** with a **Data Science minor** at *Nirma University*, dr
 
 ### 🐍 GitHub Contribution Snake
 
-![GitHub Snake](https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![GitHub Snake](https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ---
 
@@ -54,29 +55,31 @@ I'm an **ECE undergrad** with a **Data Science minor** at *Nirma University*, dr
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan2005&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan2005&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages" />
       </td>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishaan2005&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishaan2005&theme=highcontrast&hide_border=true" alt="Repos Per Language" />
       </td>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ishaan2005&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ishaan2005&theme=highcontrast&hide_border=true" alt="Most Commit Language" />
       </td>
     </tr>
   </table>
 </div>
 
-<img src="https://myreadme-stats.vercel.app/api/embed/Ishaan2005?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="MyReadme Stats">
+---
 
-<img src="https://github-readme-bento.vercel.app/api/Ishaan2005?theme=dark" alt="Ishaan2005's Bento Stats">
+<img src="https://myreadme-stats.vercel.app/api/embed/Ishaan2005?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="MyReadme Stats" />
 
-<img src="https://stats.quine.sh/Ishaan2005/github?theme=dark" alt="Advanced GitHub Stats for Ishaan2005" width="400">
+<img src="https://github-readme-bento.vercel.app/api/Ishaan2005?theme=dark" alt="Ishaan2005's Bento Stats" />
+
+<img src="https://stats.quine.sh/Ishaan2005/github?theme=dark" alt="Advanced GitHub Stats for Ishaan2005" width="400" />
 
 ![Alt](https://repobeats.axiom.co/api/embed/ed1976043cc94cc87a4f6a1e55837496635c4a1a.svg "Repobeats analytics image")
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ishaan2005&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Ishaan's GitHub stats">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishaan2005&theme=highcontrast&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ishaan2005&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Ishaan's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishaan2005&theme=highcontrast&hide_border=true" />
 </div>
 
 ---
@@ -85,24 +88,24 @@ I'm an **ECE undergrad** with a **Data Science minor** at *Nirma University*, dr
   <table>
     <tr>
       <td>
-        <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" alt="When the code finally works" width="300"/>
+        <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" alt="When the code finally works" width="300" />
       </td>
       <td>
-        <img src="https://media.giphy.com/media/YTbZzCkRQCEJa/giphy.gif" alt="Fixing one bug and getting ten" width="300"/>
+        <img src="https://media.giphy.com/media/YTbZzCkRQCEJa/giphy.gif" alt="Fixing one bug and getting ten" width="300" />
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://media.giphy.com/media/26gslXt7xQ7F9zTsk/giphy.gif" alt="Deploying to production on Friday" width="300"/>
+        <img src="https://media.giphy.com/media/26gslXt7xQ7F9zTsk/giphy.gif" alt="Deploying to production on Friday" width="300" />
       </td>
       <td>
-        <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" alt="It worked on my machine" width="300"/>
+        <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" alt="It worked on my machine" width="300" />
       </td>
     </tr>
   </table>
 </div>
 
-</br>
+<br />
 <h2 align="center">Enjoy the Game!</h2>
 <p align="center">
   <a href="https://elgoog.im/t-rex/">
@@ -154,14 +157,13 @@ I'm an **ECE undergrad** with a **Data Science minor** at *Nirma University*, dr
 ---
 
 ## 💡 Random Dev Wisdom
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
 ---
 
-⭐️ From [Ishaan Bhimajiyani](https://github.com/Ishaan2005) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+⭐️ From [Ishaan Bhimajiyani](https://github.com/Ishaan2005) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px" />
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=65" alt="Footer" />
