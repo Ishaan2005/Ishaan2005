@@ -10,10 +10,9 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 
 ## Skills & Tools  
 **Networking**: VLANs, Cisco IOS, PCAP Parsing  
-**ML/DS**: Random Forest, Isolation Forest, Scikit-learn  
 **VLSI**: Verilog, OpenLane, Quartus, ModelSim  
 **Embedded & IoT**: Arduino, ESP32, MQTT, Blynk  
-**Tools**: Linux, Git, VS Code, Grafana
+**Tools**: Linux, Git, VS Code
 
 ---
 
