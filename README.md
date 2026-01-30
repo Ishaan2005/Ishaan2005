@@ -102,44 +102,6 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 <br>
 
 
-<div align="center">
-
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Ishaan2005&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-
-<br><br>
-
-<!-- Overall Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Ishaan2005&show_icons=true&theme=highcontrast&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-
-<br><br>
-
-<!-- Trophy Board -->
-<img src="https://github-profile-trophy.vercel.app/?username=Ishaan2005&theme=onestar&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
-
-<br><br>
-
-<!-- Contribution Streak Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishaan2005&theme=react-dark&bg_color=000000&color=00FFFF&line=00FFAA&point=FFFFFF&hide_border=true" alt="Contribution Graph"/>
-
-<br><br>
-
-<!-- Achievements -->
-<img src="https://github-profile-achievements.vercel.app/api/badge?username=Ishaan2005&theme=dark" alt="GitHub Achievements" />
-
-<br><br>
-
-<!-- Skyline Link (3D contribution graph) -->
-<a href="https://skyline.github.com/Ishaan2005/2024">
-  <img src="https://img.shields.io/badge/GitHub%20Skyline-View%20My%203D%20Contributions-00D9FF?style=for-the-badge&logo=github" />
-</a>
-
-</div>
-
-
-
-
-
 <h2 align="center">🎮 Enjoy the Game!</h2>
 
 <p align="center">
