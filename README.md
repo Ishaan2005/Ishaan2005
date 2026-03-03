@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Ishaan+%F0%9F%91%8B;Engineering+Student+%7C+Network+%2B+VLSI+Projects;Pwnagotchi%2C+Verilog%2C+ESP32%2C+and+ML+Researcher!" alt="Typing SVG" />
 </div>
 
-## 👨‍💻 About Me  
+## About Me  
 I'm an **ECE undergrad** with a **Data Science minor** at *Nirma University*, driven by a passion for **VLSI**, **embedded systems**, **networking**, and **machine learning**.  
 I focus on **real-world, hands-on implementations** that bridge hardware and software.
 
@@ -16,13 +16,13 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 
 ---
 
-### 🐍 GitHub Contribution Snake
+### GitHub Contribution Snake
 
 ![GitHub Snake Dark](https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -44,7 +44,7 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 
 ---
 
-## 🚀 GitHub Stats & Contributions
+## GitHub Stats & Contributions
 
 <div align="center">
   <br>
@@ -111,7 +111,7 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
   <table>
