@@ -15,12 +15,12 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 **Embedded & IoT**: Arduino, ESP32, MQTT, Blynk  
 **Tools**: Linux, Git, VS Code
 
-
 ### GitHub Contribution Snake
 
 ![GitHub Snake Dark](https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/github-contribution-grid-snake-dark.svg)
 
 ---
+
 ## Tech Stack
 
 ### **Languages**
@@ -45,8 +45,6 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 
 ## GitHub Stats & Contributions
 
-## GitHub Stats & Contributions
-
 <div align="center">
 
   <!-- 1. Full-Width Activity Timeline -->
@@ -60,13 +58,13 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
   <br /><br />
 
   <!-- 3. Language Breakdown Grid -->
-  <table>
+  <table width="100%">
     <tr>
-      <td align="center" valign="middle">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishaan2005&theme=highcontrast&hide_border=true" alt="Repos Per Language" width="380" />
+      <td align="center" width="50%" valign="middle">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishaan2005&theme=highcontrast&hide_border=true" alt="Repos Per Language" width="100%" />
       </td>
-      <td align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan2005&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" width="380" />
+      <td align="center" width="50%" valign="middle">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan2005&layout=donut&theme=highcontrast&hide_border=true" alt="Top Languages" width="100%" />
       </td>
     </tr>
   </table>
@@ -74,13 +72,13 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
   <br />
 
   <!-- 4. Repository & Commit Analytics Grid -->
-  <table>
+  <table width="100%">
     <tr>
-      <td align="center" valign="middle">
-        <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Ishaan2005" alt="Advanced GitHub Stats" width="380" />
+      <td align="center" width="45%" valign="middle">
+        <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Ishaan2005" alt="Advanced GitHub Stats" width="100%" />
       </td>
-      <td align="center" valign="middle">
-        <img src="https://repobeats.axiom.co/api/embed/ed1976043cc94cc87a4f6a1e55837496635c4a1a.svg" alt="Repobeats Analytics" width="440" />
+      <td align="center" width="55%" valign="middle">
+        <img src="https://repobeats.axiom.co/api/embed/ed1976043cc94cc87a4f6a1e55837496635c4a1a.svg" alt="Repobeats Analytics" width="100%" />
       </td>
     </tr>
   </table>
@@ -92,6 +90,7 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 
 </div>
 
+<br />
 
 <div align="center">
   <table>
@@ -114,7 +113,6 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
   </table>
 </div>
 
-
 <h2 align="center">🎮 Enjoy the Game!</h2>
 
 <p align="center">
@@ -127,25 +125,27 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 
 ## Connect With Me
 
-<div align="Right">
+<div align="center">
   <table>
     <tr>
       <td align="center">
         <a href="https://www.linkedin.com/in/ishaan-bhimajiyani-8269a9255/">
-          <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-        </a><br>
+          <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+        </a><br />
         <sub><a href="https://www.linkedin.com/in/ishaan-bhimajiyani-8269a9255/">LinkedIn</a></sub>
+      </td>
       <td align="center">
         <a href="https://github.com/Ishaan2005">
-          <img src="https://skillicons.dev/icons?i=github" height="40" />
-        </a><br>
+          <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+        </a><br />
         <sub><a href="https://github.com/Ishaan2005">GitHub</a></sub>
       </td>
       <td align="center">
         <a href="https://www.instagram.com/ishaan._.1105/">
-          <img src="https://skillicons.dev/icons?i=instagram" height="40" />
-        </a><br>
+          <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
+        </a><br />
         <sub><a href="https://www.instagram.com/ishaan._.1105/">Instagram</a></sub>
+      </td>
     </tr>
   </table>
 </div>
@@ -160,9 +160,11 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 
 ---
 
-⭐️ From [Ishaan Bhimajiyani](https://github.com/Ishaan2005) | Let's innovate together!  
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px" />
-
 <div align="center">
+  ⭐️ From <a href="https://github.com/Ishaan2005">Ishaan Bhimajiyani</a> | Let's innovate together!  
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60px" height="30px" alt="Handshake" />
+  
+  <br /><br />
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=65" alt="Footer" />
 </div>
