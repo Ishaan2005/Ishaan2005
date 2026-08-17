@@ -15,16 +15,14 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 **Embedded & IoT**: Arduino, ESP32, MQTT, Blynk  
 **Tools**: Linux, Git, VS Code
 
+### 🐍 GitHub Contribution Snake
+![Snake](https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/github-snake-dark.svg?v=2026)
+
 ### 👾 Pac-Man Contribution Graph
-![Pac-Man](https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/pacman-contribution-graph-dark.svg)
+![Pac-Man](https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/pacman-contribution-graph-dark.svg?v=2026)
 
 ### 🚀 Galaga Contribution Graph
-![Galaga](https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/galaga-contribution-graph-dark.svg)
-
-### GitHub Contribution Snake
-
-![GitHub Snake Dark](https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/github-contribution-grid-snake-dark.svg)
----
+![Galaga](https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/galaga-contribution-graph-dark.svg?v=2026)
 
 ## Tech Stack
 
