@@ -117,34 +117,24 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
   <table>
     <tr>
       <td align="center">
-        <a href="https://www.linkedin.com/in/ishaan-bhimajiyani-8269a9255/">
-          <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+        <a href="https://www.linkedin.com/in/ishaan-bhimajiyani/">
+          <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
         </a><br>
-        <sub><a href="https://www.linkedin.com/in/ishaan-bhimajiyani-8269a9255/">LinkedIn</a></sub>
+        <sub><a href="https://www.linkedin.com/in/ishaan-bhimajiyani/">LinkedIn</a></sub>
       </td>
-      <td align="center">
-        <a href="https://www.reddit.com/user/Jumpy_Version_6857/">
-          <img src="https://cdn-icons-png.flaticon.com/512/2111/2111589.png" height="40" />
-        </a><br>
-        <sub><a href="https://www.reddit.com/user/Jumpy_Version_6857/">Reddit</a></sub>
-      </td>
+
       <td align="center">
         <a href="https://github.com/Ishaan2005">
-          <img src="https://skillicons.dev/icons?i=github" height="40" />
+          <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
         </a><br>
         <sub><a href="https://github.com/Ishaan2005">GitHub</a></sub>
       </td>
+
       <td align="center">
         <a href="https://www.instagram.com/ishaan._.1105/">
-          <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+          <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
         </a><br>
         <sub><a href="https://www.instagram.com/ishaan._.1105/">Instagram</a></sub>
-      </td>
-      <td align="center">
-        <a href="https://discord.com/users/ishaan_63793">
-          <img src="https://skillicons.dev/icons?i=discord" height="40" />
-        </a><br>
-        <sub><a href="https://discord.com/users/ishaan_63793">Discord</a></sub>
       </td>
     </tr>
   </table>
