@@ -52,12 +52,26 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 
   <br /><br />
 
-  <!-- 2. Repos Per Language -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishaan2005&theme=highcontrast&hide_border=true" alt="Repos Per Language" width="400" />
+  <!-- 2. Core Profile Overview (Bento Box) -->
+  <img src="https://github-readme-bento.vercel.app/stats/Ishaan2005?theme=dark" alt="GitHub Bento Stats" width="95%" />
 
   <br /><br />
 
-  <!-- 3. Repository & Commit Analytics Grid -->
+  <!-- 3. Language & Streak Breakdown Grid -->
+  <table width="100%">
+    <tr>
+      <td align="center" width="50%" valign="middle">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishaan2005&theme=highcontrast&hide_border=true" alt="Repos Per Language" width="100%" />
+      </td>
+      <td align="center" width="50%" valign="middle">
+        <img src="https://streak-stats.demolab.com?user=Ishaan2005&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats" width="100%" />
+      </td>
+    </tr>
+  </table>
+
+  <br />
+
+  <!-- 4. Repository & Commit Analytics Grid -->
   <table width="100%">
     <tr>
       <td align="center" width="45%" valign="middle">
@@ -71,7 +85,7 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 
   <br />
 
-  <!-- 4. Detailed Profile Summary Card -->
+  <!-- 5. Detailed Profile Summary Card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishaan2005&theme=highcontrast&hide_border=true" alt="Profile Details Card" width="95%" />
 
 </div>
