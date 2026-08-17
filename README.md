@@ -3,6 +3,7 @@
 </div>
 
 ## About Me  
+---
 I'm an **ECE undergrad** with a **Data Science minor** at *Nirma University*, driven by a passion for **VLSI**, **embedded systems**, **networking**, and **machine learning**.  
 I focus on **real-world, hands-on implementations** that bridge hardware and software.
 
@@ -14,14 +15,12 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 **Embedded & IoT**: Arduino, ESP32, MQTT, Blynk  
 **Tools**: Linux, Git, VS Code
 
----
 
 ### GitHub Contribution Snake
 
 ![GitHub Snake Dark](https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/github-contribution-grid-snake-dark.svg)
 
 ---
-
 ## Tech Stack
 
 ### **Languages**
@@ -111,7 +110,7 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 
 ## Connect With Me
 
-<div align="Left">
+<div align="Right">
   <table>
     <tr>
       <td align="center">
