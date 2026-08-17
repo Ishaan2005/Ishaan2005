@@ -111,7 +111,7 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 
 ## Connect With Me
 
-<div align="Right">
+<div align="Left">
   <table>
     <tr>
       <td align="center">
