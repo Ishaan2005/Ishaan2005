@@ -15,14 +15,22 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 **Embedded & IoT**: Arduino, ESP32, MQTT, Blynk  
 **Tools**: Linux, Git, VS Code
 
-### 🐍 GitHub Contribution Snake
-![Snake](https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/github-snake-dark.svg?v=2026)
+### Pac-Man Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/pacman-contribution-graph.svg">
+</picture>
 
-### 👾 Pac-Man Contribution Graph
-![Pac-Man](https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/pacman-contribution-graph-dark.svg?v=2026)
+### Galaga Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/galaga-contribution-graph.svg">
+  <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/<USERNAME>/Ishaan2005/output/galaga-contribution-graph.svg">
+</picture>
 
-### 🚀 Galaga Contribution Graph
-![Galaga](https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/galaga-contribution-graph-dark.svg?v=2026)
+![Snake](https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/github-contribution-grid-snake-dark.svg?v=2026)
+
 
 ## Tech Stack
 
