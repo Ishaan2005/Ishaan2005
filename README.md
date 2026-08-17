@@ -15,18 +15,18 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 **Embedded & IoT**: Arduino, ESP32, MQTT, Blynk  
 **Tools**: Linux, Git, VS Code
 
-### Pac-Man Contribution Graph
+### 👾 Pac-Man Contribution Graph
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<USERNAME>/<USERNAME>/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<USERNAME>/<USERNAME>/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/<USERNAME>/<USERNAME>/output/pacman-contribution-graph.svg">
 </picture>
 
-### Galaga Contribution Graph
+### 🚀 Galaga Contribution Graph
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/galaga-contribution-graph.svg">
-  <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/<USERNAME>/Ishaan2005/output/galaga-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<USERNAME>/<USERNAME>/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<USERNAME>/<USERNAME>/output/galaga-contribution-graph.svg">
+  <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/<USERNAME>/<USERNAME>/output/galaga-contribution-graph.svg">
 </picture>
 
 ![Snake](https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/github-contribution-grid-snake-dark.svg?v=2026)
