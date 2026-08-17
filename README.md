@@ -113,31 +113,58 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 
 ## Connect With Me
 
+## Connect With Me
+
 <div align="center">
+
   <table>
     <tr>
+
       <td align="center">
         <a href="https://www.linkedin.com/in/ishaan-bhimajiyani/">
-          <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
-        </a><br>
-        <sub><a href="https://www.linkedin.com/in/ishaan-bhimajiyani/">LinkedIn</a></sub>
+          <img
+            src="https://skillicons.dev/icons?i=linkedin"
+            height="40"
+            alt="LinkedIn"
+          />
+        </a>
+        <br>
+        <sub>
+          <a href="https://www.linkedin.com/in/ishaan-bhimajiyani/">LinkedIn</a>
+        </sub>
       </td>
 
       <td align="center">
         <a href="https://github.com/Ishaan2005">
-          <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
-        </a><br>
-        <sub><a href="https://github.com/Ishaan2005">GitHub</a></sub>
+          <img
+            src="https://skillicons.dev/icons?i=github"
+            height="40"
+            alt="GitHub"
+          />
+        </a>
+        <br>
+        <sub>
+          <a href="https://github.com/Ishaan2005">GitHub</a>
+        </sub>
       </td>
 
       <td align="center">
         <a href="https://www.instagram.com/ishaan._.1105/">
-          <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
-        </a><br>
-        <sub><a href="https://www.instagram.com/ishaan._.1105/">Instagram</a></sub>
+          <img
+            src="https://skillicons.dev/icons?i=instagram"
+            height="40"
+            alt="Instagram"
+          />
+        </a>
+        <br>
+        <sub>
+          <a href="https://www.instagram.com/ishaan._.1105/">Instagram</a>
+        </sub>
       </td>
+
     </tr>
   </table>
+
 </div>
 ---
 
