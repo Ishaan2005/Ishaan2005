@@ -89,7 +89,7 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
     </tr>
     <tr>
       <td align="center">
-        <img src="https://media.giphy.com/media/26gslXt7xQ7F9zTsk/giphy.gif" alt="Deploying to production on Friday" width="300" />
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG1qaHp1cWFoazljb2NubHU4Zzh2YzYxMG9oMGhocDYzaGpzMGd2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif" alt="Deploying to production on Friday" width="300" />
       </td>
       <td align="center">
         <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" alt="It worked on my machine" width="300" />
@@ -111,7 +111,7 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 
 ## Connect With Me
 
-<div align="center">
+<div align="Right">
   <table>
     <tr>
       <td align="center">
