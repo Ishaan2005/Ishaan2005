@@ -64,7 +64,9 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishaan2005&theme=highcontrast&hide_border=true" alt="Repos Per Language" width="100%" />
       </td>
       <td align="center" width="50%" valign="middle">
-        <img src="https://streak-stats.demolab.com/?user=Ishaan2005&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats" width="100%" />
+        <a href="https://git.io/streak-stats">
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=Ishaan2005&theme=blood-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="100%" />
+        </a>
       </td>
     </tr>
   </table>
