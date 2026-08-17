@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Ishaan+%F0%9F%91%8B;Engineering+Student+%7C+Network+%2B+VLSI+Projects;Pwnagotchi%2C+Verilog%2C+ESP32%2C+and+ML+Researcher!" alt="Typing SVG" />
 </div>
 
-## About Me  
+## About Me
 ---
 I'm an **ECE undergrad** with a **Data Science minor** at *Nirma University*, driven by a passion for **VLSI**, **embedded systems**, **networking**, and **machine learning**.  
 I focus on **real-world, hands-on implementations** that bridge hardware and software.
@@ -46,35 +46,37 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 ## GitHub Stats & Contributions
 
 <div align="center">
-  <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishaan2005&custom_title=Ishaan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area_color=000000&title_color=00FF00&area=true" alt="GitHub Activity Graph" />
-  <br><br>
+  
+  <br /><br />
+  
   <table>
     <tr>
-      <td>
+      <td align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishaan2005&theme=highcontrast&hide_border=true" alt="Repos Per Language" />
       </td>
-      <td>
+      <td align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ishaan2005&theme=highcontrast&hide_border=true" alt="Most Commit Language" />
       </td>
     </tr>
   </table>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-bento.vercel.app/stats/Ishaan2005?theme=dark" alt="Ishaan2005's GitHub Stats" />
-  <br><br>
-  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Ishaan2005" alt="Advanced GitHub Stats for Ishaan2005" width="400" />
-</div>
+  <br />
 
-<div align="center">
-  <br>
-  <img src="https://repobeats.axiom.co/api/embed/ed1976043cc94cc87a4f6a1e55837496635c4a1a.svg" alt="Repobeats analytics image" />
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishaan2005&theme=highcontrast&hide_border=true" />
-</div>
+  <img src="https://github-readme-bento.vercel.app/stats/Ishaan2005?theme=dark" alt="GitHub Stats Bento" />
+  
+  <br /><br />
+  
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Ishaan2005" alt="Advanced GitHub Stats" width="400" />
 
----
+  <br /><br />
+
+  <img src="https://repobeats.axiom.co/api/embed/ed1976043cc94cc87a4f6a1e55837496635c4a1a.svg" alt="Repobeats Analytics" />
+  
+  <br /><br />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishaan2005&theme=highcontrast&hide_border=true" alt="Profile Details Card" />
+</div>
 
 <div align="center">
   <table>
