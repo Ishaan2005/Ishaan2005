@@ -1,30 +1,40 @@
-name: Generate Arcade Contribution Graphs
+name: Generate All Contribution Graphs
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight UTC
-  workflow_dispatch:     # Allows manual trigger via the Actions tab
-  push:
-    branches:
-      - main
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
-  generate:
-    permissions:
-      contents: write
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
     steps:
-      - name: Generate Arcade SVGs
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # 1. Generate Snake
+      - name: Generate Snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Ishaan2005
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # 2. Generate Pac-Man & Galaga
+      - name: Generate Arcade Games
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: ${{ github.repository_owner }}
-          # Comma-separated list of games (e.g., pacman, galaga, breakout, bomberman)
+          github_user_name: Ishaan2005
           games: 'pacman,galaga'
-          # Optional: hide the month labels above the graph (true/false)
-          hide_month_labels: 'false'
 
-      - name: Push SVGs to Output Branch
+      # 3. Deploy all together
+      - name: Push all to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
