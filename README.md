@@ -111,59 +111,29 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 
 ## Connect With Me
 
-## Connect With Me
-
 <div align="center">
-
   <table>
     <tr>
-
       <td align="center">
-        <a href="https://www.linkedin.com/in/ishaan-bhimajiyani/">
-          <img
-            src="https://skillicons.dev/icons?i=linkedin"
-            height="40"
-            alt="LinkedIn"
-          />
-        </a>
-        <br>
-        <sub>
-          <a href="https://www.linkedin.com/in/ishaan-bhimajiyani/">LinkedIn</a>
-        </sub>
-      </td>
-
+        <a href="https://www.linkedin.com/in/ishaan-bhimajiyani-8269a9255/">
+          <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+        </a><br>
+        <sub><a href="https://www.linkedin.com/in/ishaan-bhimajiyani-8269a9255/">LinkedIn</a></sub>
       <td align="center">
         <a href="https://github.com/Ishaan2005">
-          <img
-            src="https://skillicons.dev/icons?i=github"
-            height="40"
-            alt="GitHub"
-          />
-        </a>
-        <br>
-        <sub>
-          <a href="https://github.com/Ishaan2005">GitHub</a>
-        </sub>
+          <img src="https://skillicons.dev/icons?i=github" height="40" />
+        </a><br>
+        <sub><a href="https://github.com/Ishaan2005">GitHub</a></sub>
       </td>
-
       <td align="center">
         <a href="https://www.instagram.com/ishaan._.1105/">
-          <img
-            src="https://skillicons.dev/icons?i=instagram"
-            height="40"
-            alt="Instagram"
-          />
-        </a>
-        <br>
-        <sub>
-          <a href="https://www.instagram.com/ishaan._.1105/">Instagram</a>
-        </sub>
-      </td>
-
+          <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+        </a><br>
+        <sub><a href="https://www.instagram.com/ishaan._.1105/">Instagram</a></sub>
     </tr>
   </table>
-
 </div>
+
 ---
 
 ## 💡 Random Dev Wisdom
@@ -180,6 +150,3 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=65" alt="Footer" />
 </div>
-
-
-remove errors if any, check all links, a few of them dont work, correct them 
