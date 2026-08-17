@@ -80,25 +80,23 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 <div align="center">
   <table>
     <tr>
-      <td>
+      <td align="center">
         <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" alt="When the code finally works" width="300" />
       </td>
-      <td>
+      <td align="center">
         <img src="https://media.giphy.com/media/YTbZzCkRQCEJa/giphy.gif" alt="Fixing one bug and getting ten" width="300" />
       </td>
     </tr>
     <tr>
-      <td>
+      <td align="center">
         <img src="https://media.giphy.com/media/26gslXt7xQ7F9zTsk/giphy.gif" alt="Deploying to production on Friday" width="300" />
       </td>
-      <td>
+      <td align="center">
         <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" alt="It worked on my machine" width="300" />
       </td>
     </tr>
   </table>
 </div>
-
-<br>
 
 
 <h2 align="center">🎮 Enjoy the Game!</h2>
