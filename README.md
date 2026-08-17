@@ -46,38 +46,49 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 ## GitHub Stats & Contributions
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishaan2005&custom_title=Ishaan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area_color=000000&title_color=00FF00&area=true" alt="GitHub Activity Graph" />
-  
+
+  <!-- 1. Full-Width Activity Timeline -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishaan2005&custom_title=Ishaan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area_color=000000&title_color=00FF00&area=true" alt="GitHub Activity Graph" width="95%" />
+
   <br /><br />
-  
+
+  <!-- 2. Core Profile Overview (Bento Box) -->
+  <img src="https://github-readme-bento.vercel.app/stats/Ishaan2005?theme=dark" alt="GitHub Bento Stats" width="95%" />
+
+  <br /><br />
+
+  <!-- 3. Language Breakdown Grid -->
   <table>
     <tr>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishaan2005&theme=highcontrast&hide_border=true" alt="Repos Per Language" />
+      <td align="center" valign="top">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishaan2005&theme=highcontrast&hide_border=true" alt="Repos Per Language" width="100%" />
       </td>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ishaan2005&theme=highcontrast&hide_border=true" alt="Most Commit Language" />
+      <td align="center" valign="top">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ishaan2005&theme=highcontrast&hide_border=true" alt="Most Commit Language" width="100%" />
       </td>
     </tr>
   </table>
 
   <br />
 
-  <img src="https://github-readme-bento.vercel.app/stats/Ishaan2005?theme=dark" alt="GitHub Stats Bento" />
-  
-  <br /><br />
-  
-  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Ishaan2005" alt="Advanced GitHub Stats" width="400" />
+  <!-- 4. Repository & Commit Analytics Grid -->
+  <table>
+    <tr>
+      <td align="center" valign="middle">
+        <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Ishaan2005" alt="Advanced GitHub Stats" width="380" />
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://repobeats.axiom.co/api/embed/ed1976043cc94cc87a4f6a1e55837496635c4a1a.svg" alt="Repobeats Analytics" width="440" />
+      </td>
+    </tr>
+  </table>
 
-  <br /><br />
+  <br />
 
-  <img src="https://repobeats.axiom.co/api/embed/ed1976043cc94cc87a4f6a1e55837496635c4a1a.svg" alt="Repobeats Analytics" />
-  
-  <br /><br />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishaan2005&theme=highcontrast&hide_border=true" alt="Profile Details Card" />
+  <!-- 5. Detailed Profile Summary Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishaan2005&theme=highcontrast&hide_border=true" alt="Profile Details Card" width="95%" />
+
 </div>
-
 <div align="center">
   <table>
     <tr>
