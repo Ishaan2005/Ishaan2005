@@ -16,19 +16,10 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 **Tools**: Linux, Git, VS Code
 
 ### 👾 Pac-Man Contribution Graph
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ishaan2005/Ishaan2005/blob/output/pacman-contribution-graph-dark.svg?raw=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ishaan2005/Ishaan2005/blob/output/pacman-contribution-graph.svg?raw=true">
-  <img alt="Pac-Man contribution graph" src="https://github.com/Ishaan2005/Ishaan2005/blob/output/pacman-contribution-graph-dark.svg?raw=true">
-</picture>
+![Pac-Man](https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/pacman-contribution-graph-dark.svg)
 
 ### 🚀 Galaga Contribution Graph
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ishaan2005/Ishaan2005/blob/output/galaga-contribution-graph-dark.svg?raw=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ishaan2005/Ishaan2005/blob/output/galaga-contribution-graph.svg?raw=true">
-  <img alt="Galaga contribution graph" src="https://github.com/Ishaan2005/Ishaan2005/blob/output/galaga-contribution-graph-dark.svg?raw=true">
-</picture>
-
+![Galaga](https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/galaga-contribution-graph-dark.svg)
 
 ### GitHub Contribution Snake
 
