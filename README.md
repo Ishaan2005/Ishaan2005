@@ -139,7 +139,6 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
     </tr>
   </table>
 </div>
-
 ---
 
 ## 💡 Random Dev Wisdom
