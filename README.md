@@ -45,6 +45,8 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 
 ## GitHub Stats & Contributions
 
+## GitHub Stats & Contributions
+
 <div align="center">
 
   <!-- 1. Full-Width Activity Timeline -->
@@ -60,11 +62,11 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
   <!-- 3. Language Breakdown Grid -->
   <table>
     <tr>
-      <td align="center" valign="top">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishaan2005&theme=highcontrast&hide_border=true" alt="Repos Per Language" width="100%" />
+      <td align="center" valign="middle">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishaan2005&theme=highcontrast&hide_border=true" alt="Repos Per Language" width="380" />
       </td>
-      <td align="center" valign="top">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ishaan2005&theme=highcontrast&hide_border=true" alt="Most Commit Language" width="100%" />
+      <td align="center" valign="middle">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan2005&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" width="380" />
       </td>
     </tr>
   </table>
@@ -89,6 +91,8 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishaan2005&theme=highcontrast&hide_border=true" alt="Profile Details Card" width="95%" />
 
 </div>
+
+
 <div align="center">
   <table>
     <tr>
