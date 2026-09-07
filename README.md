@@ -8,10 +8,11 @@ I'm an **ECE undergrad** with a **Data Science minor** at *Nirma University*, dr
 I focus on **real-world, hands-on implementations** that bridge hardware and software.
 
 ## Skills & Tools  
-**Networking**: VLANs, Cisco IOS, PCAP Parsing  
-**VLSI**: Verilog, OpenLane, Quartus, ModelSim  
-**Embedded & IoT**: Arduino, ESP32, MQTT, Blynk  
-**Tools**: Linux, Git, VS Code
+**Networking**: VLANs, Cisco, Nokia, Mikrotik, Huwaei.
+**VLSI**: Verilog, SystemVerilog.
+**Embedded & IoT**: Arduino, ESP32, MQTT, Raspberry Pi
+**Tools**: Linux, Git, VS Code, OpenLane, Quartus, QuestaSim, Vivado.
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/pacman-contribution-graph-dark.svg">
