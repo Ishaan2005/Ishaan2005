@@ -3,11 +3,9 @@
 </div>
 
 ## About Me
----
+
 I'm an **ECE undergrad** with a **Data Science minor** at *Nirma University*, driven by a passion for **VLSI**, **embedded systems**, **networking**, and **machine learning**.  
 I focus on **real-world, hands-on implementations** that bridge hardware and software.
-
----
 
 ## Skills & Tools  
 **Networking**: VLANs, Cisco IOS, PCAP Parsing  
@@ -20,7 +18,6 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/pacman-contribution-graph-dark.svg">
 </picture>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/galaga-contribution-graph-dark.svg">
@@ -55,23 +52,18 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 ![Quartus](https://img.shields.io/badge/Quartus-007ACC?style=for-the-badge)
 ![OpenLane](https://img.shields.io/badge/OpenLane-FF9A00?style=for-the-badge)
 
----
-
 ## GitHub Stats & Contributions
 
 <div align="center">
 
-  <!-- 1. Full-Width Activity Timeline -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishaan2005&custom_title=Ishaan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area_color=000000&title_color=00FF00&area=true" alt="GitHub Activity Graph" width="95%" />
 
   <br /><br />
 
-  <!-- 2. Core Profile Overview (Bento Box) -->
   <img src="https://github-readme-bento.vercel.app/stats/Ishaan2005?theme=dark" alt="GitHub Bento Stats" width="95%" />
 
   <br /><br />
 
-  <!-- 3. Language & Streak Breakdown Grid -->
   <table width="100%">
     <tr>
       <td align="center" width="50%" valign="middle">
@@ -85,7 +77,6 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 
   <br />
 
-  <!-- 4. Repository & Commit Analytics Grid -->
   <table width="100%">
     <tr>
       <td align="center" width="45%" valign="middle">
@@ -99,7 +90,6 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 
   <br />
 
-  <!-- 5. Detailed Profile Summary Card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishaan2005&theme=highcontrast&hide_border=true" alt="Profile Details Card" width="95%" />
 
 </div>
@@ -135,8 +125,6 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
   </a>
 </p>
 
----
-
 ## Connect With Me
 
 <div align="center">
@@ -164,15 +152,13 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
   </table>
 </div>
 
----
-
 ## 💡 Random Dev Wisdom
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
----
+<br />
 
 <div align="center">
   ⭐️ From <a href="https://github.com/Ishaan2005">Ishaan Bhimajiyani</a> | Let's innovate together!  
