@@ -8,12 +8,16 @@ I'm an **ECE undergrad** with a **Data Science minor** at *Nirma University*, dr
 I focus on **real-world, hands-on implementations** that bridge hardware and software.
 
 ## Skills & Tools  
-**Networking**: VLANs, Cisco, Nokia, Mikrotik, Huwaei.
-**VLSI**: Verilog, SystemVerilog.
-**Embedded & IoT**: Arduino, ESP32, MQTT, Raspberry Pi
-**Tools**: Linux, Git, VS Code, OpenLane, Quartus, QuestaSim, Vivado.
 
+**Networking**: VLANs, Cisco, Nokia, Mikrotik, Huawei  
 
+**VLSI**: Verilog, SystemVerilog  
+
+**Embedded & IoT**: Arduino, ESP32, MQTT, Raspberry Pi  
+
+**Tools**: Linux, Git, VS Code, OpenLane, Quartus, QuestaSim, Vivado
+
+## Contribution Graphs
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/pacman-contribution-graph.svg">
@@ -26,7 +30,6 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
   <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/galaga-contribution-graph-dark.svg">
 </picture>
 
-### GitHub Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/github-contribution-grid-snake.svg">
