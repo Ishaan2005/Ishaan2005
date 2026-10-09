@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Ishaan+%F0%9F%91%8B;ECE+Student+%7C+Networking+%2B+ASIC+Projects;Verilog%2C!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Ishaan+%F0%9F%91%8B;ECE+Student+%7C+Networking+%2B+ASIC+Projects;Verilog+%7CPython" alt="Typing SVG" />
 </div>
 
 ## About Me
@@ -11,7 +11,7 @@ I focus on **real-world, hands-on implementations** that bridge hardware and sof
 
 **Networking**: VLANs, Cisco, Nokia, Mikrotik, Huawei  
 
-**VLSI**: Verilog, SystemVerilog, MicroWind, Vivado, Questasim, Iverilog, Tcl    
+**VLSI**: Verilog, SystemVerilog, MicroWind, Vivado, Questasim, iverilog, Tcl    
 
 **OS** : Linux(debian, RHEL-Based), Windows.
 
