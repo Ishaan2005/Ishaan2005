@@ -4,8 +4,8 @@
 
 ## About Me
 
-I'm an **ECE undergrad** with a **Data Science minor** at *Nirma University*, driven by a passion for **ASIC**, **Comuputer Architecture**, **networking**, and **AI**.  
-I focus on **real-world, hands-on implementations** that bridge hardware and software. This has led me to make projects like APB, STP, MAC, and in the process of making more projects like Wishbone SOC Bus.
+I'm an ECE undergrad with a Data Science minor at *Nirma University*, driven by a passion for ASIC, Comuputer Architecture, networking, and AI.  
+I focus on real-world, hands-on implementations that bridge hardware and software. This has led me to make projects like APB, STP, MAC, and in the process of making more projects like Wishbone SOC Bus.
 
 ## Skills & Tools  
 
