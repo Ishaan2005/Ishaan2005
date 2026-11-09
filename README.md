@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Ishaan+%F0%9F%91%8B;ECE+Student+%7C+Networking+%2B+ASIC+Projects;Verilog+%7CPython" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Ishaan+%F0%9F%91%8B;ECE+Student+%7C+Networking+%2B+ASIC+Projects;Verilog+%7C Python" alt="Typing SVG" />
 </div>
 
 ## About Me
@@ -9,6 +9,14 @@ I focus on real-world, hands-on implementations that bridge hardware and softwar
 
 
 ## Contribution Graphs
+
+### 🌐 3D Contribution Calendar
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/profile-night-view.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/profile-green-animate.svg">
+  <img alt="3D Isometric Contribution Graph" src="https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/profile-night-view.svg">
+</picture>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/pacman-contribution-graph.svg">
