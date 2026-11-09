@@ -7,13 +7,6 @@
 I'm an ECE undergrad with a Data Science minor at *Nirma University*, driven by a passion for ASIC, Comuputer Architecture, networking, and AI.  
 I focus on real-world, hands-on implementations that bridge hardware and software. This has led me to make projects like APB, STP, MAC, and in the process of making more projects like Wishbone SOC Bus.
 
-## Skills & Tools  
-
-**Networking**: VLANs, Cisco, Nokia, Mikrotik, Huawei  
-
-**VLSI**: Verilog, SystemVerilog, MicroWind, Vivado, Questasim, iverilog, Tcl    
-
-**OS** : Linux(debian, RHEL-Based), Windows.
 
 ## Contribution Graphs
 <picture>
