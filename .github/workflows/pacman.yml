@@ -37,20 +37,20 @@ jobs:
           github_user_name: Ishaan2005
           games: 'pacman,galaga'
 
-      # 4. Generate 3D Contribution Graphs
+# 4. Generate 3D Contribution Graphs
       - name: Generate 3D Contribution Graphs
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: Ishaan2005
 
-      # 5. Move 3D SVGs into dist/ so everything deploys together
-      - name: Merge 3D SVGs into dist
+      # 5. Copy 3D graphs into dist folder
+      - name: Copy 3D SVGs to dist
         run: |
           mkdir -p dist
           cp -r profile-3d-contrib/* dist/
 
-      # 6. Deploy all SVGs together to the output branch
+      # 6. Deploy everything to the output branch
       - name: Push all to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
