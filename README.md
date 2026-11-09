@@ -12,9 +12,9 @@ I focus on real-world, hands-on implementations that bridge hardware and softwar
 
 ### 🌐 3D Contribution Calendar
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/profile-night-view.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/profile-night-rainbow.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/profile-green-animate.svg">
-  <img alt="3D Isometric Contribution Graph" src="https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/profile-night-view.svg">
+  <img alt="3D Isometric Contribution Graph" src="https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/profile-night-rainbow.svg">
 </picture>
 
 <picture>
