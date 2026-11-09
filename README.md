@@ -10,12 +10,7 @@ I focus on real-world, hands-on implementations that bridge hardware and softwar
 
 ## Contribution Graphs
 
-<picture>
-  ![Lego Gitblock Calendar](https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/profile-gitblock.svg)
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/profile-green-animate.svg">
-  <img alt="3D Isometric Contribution Graph" src="https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/profile-night-rainbow.svg">
-</picture>
+![Lego Gitblock Calendar](https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/profile-gitblock.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ishaan2005/Ishaan2005/output/pacman-contribution-graph-dark.svg">
